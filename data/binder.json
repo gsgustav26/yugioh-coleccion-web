@@ -1,0 +1,228 @@
+{
+  "casillasPorPagina": 9,
+  "paginasAbiertas": 2,
+  "funda": "small 62 × 89 mm",
+  "secciones": [
+    {
+      "id": "motor-windup",
+      "nombre": "Wind-Up"
+    },
+    {
+      "id": "motor-ddd",
+      "nombre": "D/D/D"
+    },
+    {
+      "id": "motor-bls",
+      "nombre": "Black Luster Soldier"
+    },
+    {
+      "id": "otros",
+      "nombre": "Sueltas"
+    }
+  ],
+  "paginas": [
+    {
+      "seccion": "motor-windup",
+      "titulo": "Wind-Up",
+      "casillas": [
+        42874792,
+        42874792,
+        42874792,
+        57962537,
+        57962537,
+        57962537,
+        25484449,
+        25484449,
+        25484449
+      ]
+    },
+    {
+      "seccion": "motor-windup",
+      "titulo": "Wind-Up",
+      "casillas": [
+        59297550,
+        59297550,
+        81122844,
+        95714077,
+        95714077,
+        95714077,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "seccion": "motor-ddd",
+      "titulo": "D/D/D",
+      "casillas": [
+        74069667,
+        74069667,
+        25857977,
+        46372010,
+        46372010,
+        46372010,
+        46593546,
+        71612253,
+        3758046
+      ]
+    },
+    {
+      "seccion": "motor-ddd",
+      "titulo": "D/D/D",
+      "casillas": [
+        27873305,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "seccion": "motor-bls",
+      "titulo": "Black Luster Soldier",
+      "casillas": [
+        95492061,
+        95492061,
+        95492061,
+        54484652,
+        54484652,
+        12266229,
+        96729612,
+        14094090,
+        38844957
+      ]
+    },
+    {
+      "seccion": "motor-bls",
+      "titulo": "Black Luster Soldier",
+      "casillas": [
+        85059922,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "seccion": "otros",
+      "titulo": "Sueltas",
+      "casillas": [
+        92565383,
+        92565383,
+        92565383,
+        16178683,
+        16178683,
+        16178683,
+        72714392,
+        72714392,
+        13256226
+      ]
+    },
+    {
+      "seccion": "otros",
+      "titulo": "Sueltas",
+      "casillas": [
+        28954097,
+        28954097,
+        31149212,
+        64753988,
+        64753988,
+        64753988,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "seccion": "staples",
+      "titulo": "Staples",
+      "casillas": [
+        92107604,
+        92107604,
+        98696958,
+        16528181,
+        19508728,
+        25807544,
+        73628505,
+        80801743,
+        53417695
+      ]
+    },
+    {
+      "seccion": "staples",
+      "titulo": "Staples",
+      "casillas": [
+        30459350,
+        30459350,
+        30459350,
+        62279055,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "seccion": "extra",
+      "titulo": "Extra genérico",
+      "casillas": [
+        95784714,
+        95784714,
+        25862681,
+        36320744,
+        21637210,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "seccion": "prohibidas",
+      "titulo": "Prohibidas",
+      "casillas": [
+        48626373,
+        23434538,
+        79559912,
+        16923472,
+        37818794,
+        53334471,
+        58820923,
+        71818935,
+        87746184
+      ]
+    }
+  ],
+  "caja": [
+    87746184,
+    4280258,
+    55204071,
+    25311006,
+    25311006,
+    25311006,
+    65681983,
+    65681983,
+    65681983,
+    65681983,
+    83326048,
+    83326048,
+    28143384,
+    24224830,
+    65330383,
+    58921041,
+    58921041,
+    58921041,
+    24207889,
+    24207889,
+    24207889
+  ]
+}

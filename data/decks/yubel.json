@@ -1,0 +1,449 @@
+{
+  "id": "yubel",
+  "nombre": "Yubel Fiendsmith",
+  "tipo": "fun (puede ser competitivo)",
+  "funda": "Morado",
+  "nota": "",
+  "main": [
+    {
+      "id": 78371393,
+      "nombre": "Yubel",
+      "cantidad": 1
+    },
+    {
+      "id": 90829280,
+      "nombre": "Spirit of Yubel",
+      "cantidad": 1
+    },
+    {
+      "id": 62318994,
+      "nombre": "Samsara D Lotus",
+      "cantidad": 3
+    },
+    {
+      "id": 24215921,
+      "nombre": "Gruesome Grave Squirmer",
+      "cantidad": 3
+    },
+    {
+      "id": 81034083,
+      "nombre": "Dark Beckoning Beast",
+      "cantidad": 2
+    },
+    {
+      "id": 60764609,
+      "nombre": "Fiendsmith Engraver",
+      "cantidad": 2
+    },
+    {
+      "id": 28803166,
+      "nombre": "Lacrima the Crimson Tears",
+      "cantidad": 1
+    },
+    {
+      "id": 97268402,
+      "nombre": "Effect Veiler",
+      "cantidad": 3
+    },
+    {
+      "id": 89019964,
+      "nombre": "Unchained Soul of Disaster",
+      "cantidad": 1
+    },
+    {
+      "id": 36956512,
+      "nombre": "Gadarla, the Mystery Dust Kaiju",
+      "cantidad": 2
+    },
+    {
+      "id": 93332803,
+      "nombre": "Dogoran, the Mad Flame Kaiju",
+      "cantidad": 1
+    },
+    {
+      "id": 29726552,
+      "nombre": "Kumongous, the Sticky String Kaiju",
+      "cantidad": 1
+    },
+    {
+      "id": 63941210,
+      "nombre": "Jizukiru, the Star Destroying Kaiju",
+      "cantidad": 1
+    },
+    {
+      "id": 93729896,
+      "nombre": "Nightmare Throne",
+      "cantidad": 2
+    },
+    {
+      "id": 65261141,
+      "nombre": "Nightmare Pain",
+      "cantidad": 2
+    },
+    {
+      "id": 80312545,
+      "nombre": "Opening of the Spirit Gates",
+      "cantidad": 1
+    },
+    {
+      "id": 35552985,
+      "nombre": "Fiendsmith's Sanct",
+      "cantidad": 1
+    },
+    {
+      "id": 98567237,
+      "nombre": "Fiendsmith's Tract",
+      "cantidad": 2
+    },
+    {
+      "id": 54693926,
+      "nombre": "Dark Ruler No More",
+      "cantidad": 1
+    },
+    {
+      "id": 35261759,
+      "nombre": "Pot of Desires",
+      "cantidad": 1
+    },
+    {
+      "id": 97077563,
+      "nombre": "Call of the Haunted",
+      "cantidad": 3
+    },
+    {
+      "id": 80101899,
+      "nombre": "Trap Trick",
+      "cantidad": 3
+    },
+    {
+      "id": 99989863,
+      "nombre": "Fiendsmith in Paradise",
+      "cantidad": 1
+    },
+    {
+      "id": 97651498,
+      "nombre": "Fabled Lurrie",
+      "cantidad": 1
+    }
+  ],
+  "extra": [
+    {
+      "id": 2463794,
+      "nombre": "Fiendsmith's Requiem",
+      "cantidad": 1
+    },
+    {
+      "id": 49867899,
+      "nombre": "Fiendsmith's Sequence",
+      "cantidad": 1
+    },
+    {
+      "id": 32991300,
+      "nombre": "Fiendsmith's Agnumday",
+      "cantidad": 1
+    },
+    {
+      "id": 46640168,
+      "nombre": "Fiendsmith's Lacrima",
+      "cantidad": 1
+    },
+    {
+      "id": 82135803,
+      "nombre": "Fiendsmith's Desirae",
+      "cantidad": 1
+    },
+    {
+      "id": 38342335,
+      "nombre": "Knightmare Unicorn",
+      "cantidad": 1
+    },
+    {
+      "id": 21637210,
+      "nombre": "Firewall Dragon Singularity",
+      "cantidad": 1
+    },
+    {
+      "id": 93860227,
+      "nombre": "Necroquip Princess",
+      "cantidad": 1
+    }
+  ],
+  "side": [],
+  "conseguir": [],
+  "sidePlan": [],
+  "guia": {
+    "idea": "Yubel resiste las batallas y castiga al rival. El motor Fiendsmith (Engraver, Sanct, Tract, Requiem) da extensión con monstruos LUZ Demonio y los Kaiju quitan monstruos grandes del rival. Deck de valor y de control con trampas (Call of the Haunted, Trap Trick).",
+    "clave": [
+      "Spirit of Yubel / Samsara D Lotus / Gruesome Grave Squirmer: el motor de Yubel.",
+      "Nightmare Pain: destruye un monstruo OSCURIDAD tuyo para buscar a Yubel o una carta que la mencione. Nightmare Throne: al activarse busca un Fiend de 0 ATK/DEF.",
+      "Fiendsmith Engraver: descártalo para buscar una mágica/trampa Fiendsmith; vuelve del cementerio barajando otro Fiend LUZ.",
+      "Fiendsmith's Tract: busca un Fiend LUZ (Lacrima the Crimson Tears) y abre el combo.",
+      "Fiendsmith's Requiem (Link 1): con un solo Fiend LUZ saca un Fiendsmith del deck.",
+      "Kaiju (Gadarla, Dogoran, Kumongous, Jizukiru): para quitar el monstruo más fuerte del rival."
+    ],
+    "combo": [
+      "Activa Fiendsmith's Tract → busca Lacrima the Crimson Tears y descarta 1 (o descarta Engraver para buscar una mágica/trampa Fiendsmith).",
+      "Invoca normal Lacrima → manda una carta Fiendsmith del deck al cementerio. Con Lacrima haz Fiendsmith's Requiem (Link 1).",
+      "Libera a Requiem (efecto rápido): saca un Fiendsmith de la mano o del deck (Engraver) y sigue hacia Fiendsmith's Sequence / Lacrima (Fusión). Tract, desterrado del cementerio, también fusiona.",
+      "En paralelo, busca con Nightmare Pain / Throne la pieza de Yubel que falte para el turno siguiente.",
+      "Revisa los textos en la app: este combo es un borrador para practicar en Dueling Nexus."
+    ],
+    "consejos": [
+      "Cuando confirmes cuántas Fiendsmith tienes, ajusta el combo.",
+      "Trap Trick te deja buscar la trampa que necesitas: Call of the Haunted es la más versátil.",
+      "Seven Tools y Magic Cylinder: guárdalas para la jugada clave del rival."
+    ]
+  },
+  "plan": {
+    "puesto": 2,
+    "nivel": "Segundo deck",
+    "veredicto": "Tu segundo deck. Fiendsmith Yubel hizo muchos tops entre 2024 y mayo de 2026 (lo último: Top 8 Catskill y Top 4 en un regional online). Este mes no aparece en torneos, así que hoy es un deck sólido de tienda más que de regional. La lista objetivo es la de Catskill ajustada a la banlist actual.",
+    "cambios": [
+      "El cambio grande: la versión de torneo no usa Kaijus, Effect Veiler, Call of the Haunted, Trap Trick, Pot of Desires ni Dark Ruler No More. Usa más motor (3 Spirit of Yubel, 3 Nightmare Throne, 3 Opening of the Spirit Gates, 3 Fiendsmith Engraver) y hand traps.",
+      "Motor primero, todo barato: 2 Spirit of Yubel, Terror Incarnate, Ultimate Nightmare, 3 Buio the Dawn's Light, 1 Dark Beckoning Beast, 1 Fiendsmith Engraver, 1 Nightmare Throne, 2 Opening of the Spirit Gates, Chaos Summoning Beast.",
+      "Extra: Phantom of Yubel (limitada), Luce the Dusk's Dark, Fiendsmith's Lacrima (Fusión), Salamangreat Almiraj y A Bao A Qu.",
+      "Hand traps propias para no compartir con Unchained: 3 Ash, 3 Ghost Belle y 1 Unchained Soul of Sharvara. Ghost Ogre y Escape ya las tienes libres.",
+      "Lo más caro es el Side: 3 Mulcharmy Fuwalos (≈ $12 c/u) como segundo juego. Puede esperar.",
+      "Mientras compras, tu lista actual sigue siendo jugable para divertirte."
+    ]
+  },
+  "objetivo": {
+    "fuente": "Top 8 Catskill WCQ Regional (James Range, 16-05-2026), el resultado más reciente de Fiendsmith Yubel, ajustado a la banlist actual: sin Aerial Eater, Reprodocus ni Varudras (prohibidas), 1 sola Droll (limitada) y sin Forbidden Crown (≈ $42 c/u).",
+    "main": [
+      {
+        "id": 78371393,
+        "nombre": "Yubel",
+        "cantidad": 1
+      },
+      {
+        "id": 90829280,
+        "nombre": "Spirit of Yubel",
+        "cantidad": 3
+      },
+      {
+        "id": 4779091,
+        "nombre": "Yubel - Terror Incarnate",
+        "cantidad": 1
+      },
+      {
+        "id": 31764700,
+        "nombre": "Yubel - The Ultimate Nightmare",
+        "cantidad": 1
+      },
+      {
+        "id": 27439792,
+        "nombre": "Chaos Summoning Beast",
+        "cantidad": 1
+      },
+      {
+        "id": 81034083,
+        "nombre": "Dark Beckoning Beast",
+        "cantidad": 3
+      },
+      {
+        "id": 24215921,
+        "nombre": "Gruesome Grave Squirmer",
+        "cantidad": 3
+      },
+      {
+        "id": 62318994,
+        "nombre": "Samsara D Lotus",
+        "cantidad": 1
+      },
+      {
+        "id": 97651498,
+        "nombre": "Fabled Lurrie",
+        "cantidad": 1
+      },
+      {
+        "id": 28803166,
+        "nombre": "Lacrima the Crimson Tears",
+        "cantidad": 1
+      },
+      {
+        "id": 60764609,
+        "nombre": "Fiendsmith Engraver",
+        "cantidad": 3
+      },
+      {
+        "id": 41165831,
+        "nombre": "Unchained Soul of Sharvara",
+        "cantidad": 1
+      },
+      {
+        "id": 19000848,
+        "nombre": "Buio the Dawn's Light",
+        "cantidad": 3
+      },
+      {
+        "id": 14558127,
+        "nombre": "Ash Blossom & Joyous Spring",
+        "cantidad": 3
+      },
+      {
+        "id": 73642296,
+        "nombre": "Ghost Belle & Haunted Mansion",
+        "cantidad": 3
+      },
+      {
+        "id": 59438930,
+        "nombre": "Ghost Ogre & Snow Rabbit",
+        "cantidad": 2
+      },
+      {
+        "id": 94145021,
+        "nombre": "Droll & Lock Bird",
+        "cantidad": 1
+      },
+      {
+        "id": 65261141,
+        "nombre": "Nightmare Pain",
+        "cantidad": 1
+      },
+      {
+        "id": 93729896,
+        "nombre": "Nightmare Throne",
+        "cantidad": 3
+      },
+      {
+        "id": 80312545,
+        "nombre": "Opening of the Spirit Gates",
+        "cantidad": 3
+      },
+      {
+        "id": 98567237,
+        "nombre": "Fiendsmith's Tract",
+        "cantidad": 1
+      },
+      {
+        "id": 35552985,
+        "nombre": "Fiendsmith's Sanct",
+        "cantidad": 1
+      },
+      {
+        "id": 24299458,
+        "nombre": "Forbidden Droplet",
+        "cantidad": 2
+      },
+      {
+        "id": 53417695,
+        "nombre": "Escape of the Unchained",
+        "cantidad": 1
+      }
+    ],
+    "extra": [
+      {
+        "id": 80453041,
+        "nombre": "Phantom of Yubel",
+        "cantidad": 1
+      },
+      {
+        "id": 45409943,
+        "nombre": "Luce the Dusk's Dark",
+        "cantidad": 1
+      },
+      {
+        "id": 93860227,
+        "nombre": "Necroquip Princess",
+        "cantidad": 1
+      },
+      {
+        "id": 82135803,
+        "nombre": "Fiendsmith's Desirae",
+        "cantidad": 1
+      },
+      {
+        "id": 49867899,
+        "nombre": "Fiendsmith's Sequence",
+        "cantidad": 1
+      },
+      {
+        "id": 2463794,
+        "nombre": "Fiendsmith's Requiem",
+        "cantidad": 1
+      },
+      {
+        "id": 46640168,
+        "nombre": "Fiendsmith's Lacrima",
+        "cantidad": 1
+      },
+      {
+        "id": 32991300,
+        "nombre": "Fiendsmith's Agnumday",
+        "cantidad": 1
+      },
+      {
+        "id": 24269961,
+        "nombre": "Unchained Soul Lord of Yama",
+        "cantidad": 2
+      },
+      {
+        "id": 67680512,
+        "nombre": "Unchained Soul of Rage",
+        "cantidad": 1
+      },
+      {
+        "id": 60303245,
+        "nombre": "Salamangreat Almiraj",
+        "cantidad": 1
+      },
+      {
+        "id": 29301450,
+        "nombre": "S:P Little Knight",
+        "cantidad": 1
+      },
+      {
+        "id": 4731783,
+        "nombre": "A Bao A Qu, the Lightless Shadow",
+        "cantidad": 1
+      },
+      {
+        "id": 71607202,
+        "nombre": "Muckraker From the Underworld",
+        "cantidad": 1
+      }
+    ],
+    "side": [
+      {
+        "id": 42141493,
+        "nombre": "Mulcharmy Fuwalos",
+        "cantidad": 3
+      },
+      {
+        "id": 84192580,
+        "nombre": "Mulcharmy Purulia",
+        "cantidad": 3
+      },
+      {
+        "id": 92650749,
+        "nombre": "Mature Chronicle",
+        "cantidad": 1
+      },
+      {
+        "id": 48130397,
+        "nombre": "Super Polymerization",
+        "cantidad": 2
+      },
+      {
+        "id": 47172959,
+        "nombre": "Yubel - The Loving Defender Forever",
+        "cantidad": 1
+      },
+      {
+        "id": 15693423,
+        "nombre": "Evenly Matched",
+        "cantidad": 3
+      },
+      {
+        "id": 18144507,
+        "nombre": "Harpie's Feather Duster",
+        "cantidad": 1
+      },
+      {
+        "id": 12067160,
+        "nombre": "Gorgon of Zilofthonia",
+        "cantidad": 1
+      }
+    ]
+  }
+}

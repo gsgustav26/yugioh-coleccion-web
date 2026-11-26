@@ -1,0 +1,440 @@
+{
+  "id": "branded",
+  "nombre": "Branded Despia",
+  "tipo": "fun (32 cartas, faltan 8)",
+  "funda": "Blanco",
+  "nota": "",
+  "main": [
+    {
+      "id": 62962630,
+      "nombre": "Aluber the Jester of Despia",
+      "cantidad": 3
+    },
+    {
+      "id": 68468459,
+      "nombre": "Fallen of Albaz",
+      "cantidad": 3
+    },
+    {
+      "id": 81555617,
+      "nombre": "Ad Libitum of Despia",
+      "cantidad": 1
+    },
+    {
+      "id": 36577931,
+      "nombre": "Despian Tragedy",
+      "cantidad": 2
+    },
+    {
+      "id": 95515789,
+      "nombre": "Blazing Cartesia, the Virtuous",
+      "cantidad": 2
+    },
+    {
+      "id": 45883110,
+      "nombre": "Guiding Quem, the Virtuous",
+      "cantidad": 1
+    },
+    {
+      "id": 25451383,
+      "nombre": "Albion the Shrouded Dragon",
+      "cantidad": 1
+    },
+    {
+      "id": 19096726,
+      "nombre": "Tri-Brigade Mercourier",
+      "cantidad": 1
+    },
+    {
+      "id": 28674152,
+      "nombre": "Radian, the Multidimensional Kaiju",
+      "cantidad": 1
+    },
+    {
+      "id": 36956512,
+      "nombre": "Gadarla, the Mystery Dust Kaiju",
+      "cantidad": 1
+    },
+    {
+      "id": 29726552,
+      "nombre": "Kumongous, the Sticky String Kaiju",
+      "cantidad": 1
+    },
+    {
+      "id": 93332803,
+      "nombre": "Dogoran, the Mad Flame Kaiju",
+      "cantidad": 1
+    },
+    {
+      "id": 59438930,
+      "nombre": "Ghost Ogre & Snow Rabbit",
+      "cantidad": 1
+    },
+    {
+      "id": 48770333,
+      "nombre": "Thunder King, the Lightningstrike Kaiju",
+      "cantidad": 1
+    },
+    {
+      "id": 36637374,
+      "nombre": "Branded Opening",
+      "cantidad": 1
+    },
+    {
+      "id": 44362883,
+      "nombre": "Branded Fusion",
+      "cantidad": 1
+    },
+    {
+      "id": 6498706,
+      "nombre": "Fusion Deployment",
+      "cantidad": 3
+    },
+    {
+      "id": 34995106,
+      "nombre": "Branded in White",
+      "cantidad": 1
+    },
+    {
+      "id": 82738008,
+      "nombre": "Branded in Red",
+      "cantidad": 1
+    },
+    {
+      "id": 1475311,
+      "nombre": "Allure of Darkness",
+      "cantidad": 2
+    },
+    {
+      "id": 56787189,
+      "nombre": "New Frontier",
+      "cantidad": 1
+    },
+    {
+      "id": 17751597,
+      "nombre": "Branded Retribution",
+      "cantidad": 1
+    },
+    {
+      "id": 6763530,
+      "nombre": "Branded Banishment",
+      "cantidad": 1
+    }
+  ],
+  "extra": [
+    {
+      "id": 44146295,
+      "nombre": "Mirrorjade the Iceblade Dragon",
+      "cantidad": 2
+    },
+    {
+      "id": 38811586,
+      "nombre": "Albion the Sanctifire Dragon",
+      "cantidad": 1
+    },
+    {
+      "id": 41373230,
+      "nombre": "Titaniklad the Ash Dragon",
+      "cantidad": 1
+    },
+    {
+      "id": 24915933,
+      "nombre": "Granguignol the Dusk Dragon",
+      "cantidad": 1
+    },
+    {
+      "id": 1906812,
+      "nombre": "Sprind the Irondash Dragon",
+      "cantidad": 1
+    },
+    {
+      "id": 11321089,
+      "nombre": "Guardian Chimera",
+      "cantidad": 1
+    },
+    {
+      "id": 72272462,
+      "nombre": "Despian Quaeritis",
+      "cantidad": 1
+    },
+    {
+      "id": 69946549,
+      "nombre": "Predaplant Dragostapelia",
+      "cantidad": 1
+    },
+    {
+      "id": 6855503,
+      "nombre": "Masquerade the Blazing Dragon",
+      "cantidad": 1
+    }
+  ],
+  "side": [],
+  "conseguir": [],
+  "sidePlan": [],
+  "guia": {
+    "idea": "Fusiones con Fallen of Albaz y Despia: haces fusiones desde la mano o el deck con Branded Fusion y Mirrorjade/Albion, y trampas que reciclan. Le faltan 8 cartas: completa con la lista «Por conseguir».",
+    "clave": [
+      "Aluber the Jester of Despia: al invocarse busca una mágica/trampa Branded.",
+      "Fallen of Albaz: hace fusión usando monstruos del rival como material.",
+      "Branded Fusion (limitada): fusión de un monstruo que menciona a Albaz usando 2 monstruos de la mano, deck o campo.",
+      "Mirrorjade the Iceblade Dragon: manda una fusión de Albaz del Extra al cementerio para desterrar un monstruo del campo (efecto rápido).",
+      "Branded in Red / White: buscan y reciclan."
+    ],
+    "combo": [
+      "Invoca normal Aluber → busca Branded Fusion.",
+      "Branded Fusion: Albaz + un monstruo del deck (por ejemplo un Despia) → Albion the Sanctifire Dragon o Titaniklad the Ash Dragon (Mirrorjade necesita Albaz + un monstruo del Extra).",
+      "En la End Phase, las fusiones que fueron al cementerio buscan más piezas Branded/Despia."
+    ],
+    "consejos": [
+      "El turno de Branded Fusion solo puedes sacar Fusiones del Extra: no lo mezcles con Links.",
+      "Con 32 cartas el deck no es legal: necesita 40 (la app te lo avisa)."
+    ]
+  },
+  "objetivo": {
+    "fuente": "Top 4 Zenica WCQ Regional (Džavid Berberović): de las 7 listas de torneo, la más barata de completar con tus cartas.",
+    "main": [
+      {
+        "id": 62962630,
+        "nombre": "Aluber the Jester of Despia",
+        "cantidad": 3
+      },
+      {
+        "id": 73819701,
+        "nombre": "Fallen of the White Dragon",
+        "cantidad": 2
+      },
+      {
+        "id": 68468459,
+        "nombre": "Fallen of Albaz",
+        "cantidad": 1
+      },
+      {
+        "id": 95515789,
+        "nombre": "Blazing Cartesia, the Virtuous",
+        "cantidad": 2
+      },
+      {
+        "id": 45883110,
+        "nombre": "Guiding Quem, the Virtuous",
+        "cantidad": 1
+      },
+      {
+        "id": 55273560,
+        "nombre": "Incredible Ecclesia, the Virtuous",
+        "cantidad": 2
+      },
+      {
+        "id": 60303688,
+        "nombre": "Dogmatika Ecclesia, the Virtuous",
+        "cantidad": 1
+      },
+      {
+        "id": 82489470,
+        "nombre": "The Golden Swordsoul",
+        "cantidad": 1
+      },
+      {
+        "id": 19304410,
+        "nombre": "Tri-Brigade Springans Kitt",
+        "cantidad": 1
+      },
+      {
+        "id": 45484331,
+        "nombre": "Springans Kitt",
+        "cantidad": 1
+      },
+      {
+        "id": 94395649,
+        "nombre": "Cocatorium the Heavy Metal Avian",
+        "cantidad": 1
+      },
+      {
+        "id": 19096726,
+        "nombre": "Tri-Brigade Mercourier",
+        "cantidad": 1
+      },
+      {
+        "id": 42141493,
+        "nombre": "Mulcharmy Fuwalos",
+        "cantidad": 3
+      },
+      {
+        "id": 14558127,
+        "nombre": "Ash Blossom & Joyous Spring",
+        "cantidad": 3
+      },
+      {
+        "id": 59438930,
+        "nombre": "Ghost Ogre & Snow Rabbit",
+        "cantidad": 3
+      },
+      {
+        "id": 94145021,
+        "nombre": "Droll & Lock Bird",
+        "cantidad": 1
+      },
+      {
+        "id": 44362883,
+        "nombre": "Branded Fusion",
+        "cantidad": 1
+      },
+      {
+        "id": 29948294,
+        "nombre": "Branded in High Spirits",
+        "cantidad": 1
+      },
+      {
+        "id": 36637374,
+        "nombre": "Branded Opening",
+        "cantidad": 1
+      },
+      {
+        "id": 1984618,
+        "nombre": "Nadir Servant",
+        "cantidad": 3
+      },
+      {
+        "id": 30271097,
+        "nombre": "The Fallen & The Virtuous",
+        "cantidad": 3
+      },
+      {
+        "id": 48130397,
+        "nombre": "Super Polymerization",
+        "cantidad": 3
+      },
+      {
+        "id": 75500286,
+        "nombre": "Gold Sarcophagus",
+        "cantidad": 1
+      }
+    ],
+    "extra": [
+      {
+        "id": 44146295,
+        "nombre": "Mirrorjade the Iceblade Dragon",
+        "cantidad": 1
+      },
+      {
+        "id": 38811586,
+        "nombre": "Albion the Sanctifire Dragon",
+        "cantidad": 1
+      },
+      {
+        "id": 24915933,
+        "nombre": "Granguignol the Dusk Dragon",
+        "cantidad": 1
+      },
+      {
+        "id": 41373230,
+        "nombre": "Titaniklad the Ash Dragon",
+        "cantidad": 1
+      },
+      {
+        "id": 51409648,
+        "nombre": "Rindbrumm the Striking Dragon",
+        "cantidad": 1
+      },
+      {
+        "id": 1906812,
+        "nombre": "Sprind the Irondash Dragon",
+        "cantidad": 1
+      },
+      {
+        "id": 76666602,
+        "nombre": "The Dragon that Devours the Dogma",
+        "cantidad": 2
+      },
+      {
+        "id": 80843006,
+        "nombre": "Mixousia the Confounder",
+        "cantidad": 1
+      },
+      {
+        "id": 33166263,
+        "nombre": "Hyperinvoked Aeon",
+        "cantidad": 1
+      },
+      {
+        "id": 69946549,
+        "nombre": "Predaplant Dragostapelia",
+        "cantidad": 1
+      },
+      {
+        "id": 11765832,
+        "nombre": "Garura, Wings of Resonant Life",
+        "cantidad": 1
+      },
+      {
+        "id": 53971455,
+        "nombre": "Despian Luluwalilith",
+        "cantidad": 1
+      },
+      {
+        "id": 74405783,
+        "nombre": "The Three Champions of Swordsoul",
+        "cantidad": 1
+      },
+      {
+        "id": 78397661,
+        "nombre": "Ecclesia and the Dark Dragon",
+        "cantidad": 1
+      }
+    ],
+    "side": [
+      {
+        "id": 69680031,
+        "nombre": "Dogmatika Fleurdelis, the Knighted",
+        "cantidad": 1
+      },
+      {
+        "id": 34267821,
+        "nombre": "Artifact Lancea",
+        "cantidad": 2
+      },
+      {
+        "id": 102380,
+        "nombre": "Lava Golem",
+        "cantidad": 2
+      },
+      {
+        "id": 27204311,
+        "nombre": "Nibiru, the Primal Being",
+        "cantidad": 2
+      },
+      {
+        "id": 18144507,
+        "nombre": "Harpie's Feather Duster",
+        "cantidad": 1
+      },
+      {
+        "id": 4227096,
+        "nombre": "Mistaken Arrest",
+        "cantidad": 3
+      },
+      {
+        "id": 15693423,
+        "nombre": "Evenly Matched",
+        "cantidad": 3
+      },
+      {
+        "id": 89851827,
+        "nombre": "Secreterion Dragon",
+        "cantidad": 1
+      }
+    ]
+  },
+  "plan": {
+    "puesto": 3,
+    "nivel": "Puede competir",
+    "veredicto": "Es el más competitivo de los que vas completando de a poco: «Despia Branded» hizo 7 tops en regionales entre el 25 de octubre y el 22 de noviembre. Tu lista es la versión vieja y la de torneo cambió casi todo, así que va sin apuro: lo barato primero y las 4 cartas caras al final.",
+    "cambios": [
+      "El motor actual gira en torno a Fallen of the White Dragon, The Fallen & The Virtuous, Nadir Servant y las Ecclesia. Ninguna lista de torneo usa ya Kaijus, Fusion Deployment, Allure of Darkness, New Frontier, Ad Libitum ni Branded in White/Red.",
+      "Barato y primero (centavos cada una): 3 Nadir Servant, 2 Incredible Ecclesia, Dogmatika Ecclesia, Springans Kitt, Branded in High Spirits, Gold Sarcophagus y el Extra nuevo (2 The Dragon that Devours the Dogma, Rindbrumm, Lubellion, Mixousia, The Three Champions of Swordsoul).",
+      "Después: 3 The Fallen & The Virtuous (≈ $4 c/u).",
+      "Lo caro, que puede esperar: 2 Fallen of the White Dragon (≈ $36 c/u), Ecclesia and the Dark Dragon (≈ $31), Tri-Brigade Springans Kitt (≈ $26) y Hyperinvoked Aeon (≈ $9). Sin ellas el deck juega, pero no al nivel de torneo.",
+      "Las hand traps (Ash, Fuwalos, Ghost Ogre, Droll) están en tu Unchained, que va primero. Para no compartirlas entre cajas, en «Por conseguir» te aparece el segundo juego de cada una.",
+      "Mientras tanto queda como deck casual de 32 cartas; no vale la pena gastarle antes de terminar Unchained."
+    ]
+  }
+}

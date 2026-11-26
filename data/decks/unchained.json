@@ -1,0 +1,773 @@
+{
+  "id": "unchained",
+  "nombre": "Unchained",
+  "tipo": "torneo",
+  "funda": "Rojo",
+  "nota": "Basado en el Top 4 del WCQ Regional de Oklahoma City (Corin Lozano, 14-11-2026) y el 1º del Regional de Ljubljana (Leonardo D'Angelo, 21-11-2026).",
+  "main": [
+    {
+      "id": 31531914,
+      "nombre": "Unchained Oni of Shyma",
+      "cantidad": 3
+    },
+    {
+      "id": 95136979,
+      "nombre": "Unchained Oni of Shara",
+      "cantidad": 2
+    },
+    {
+      "id": 68625623,
+      "nombre": "Unchained Zealot - Kamra",
+      "cantidad": 3
+    },
+    {
+      "id": 41165831,
+      "nombre": "Unchained Soul of Sharvara",
+      "cantidad": 3
+    },
+    {
+      "id": 26236560,
+      "nombre": "Unchained Twins - Aruha",
+      "cantidad": 3
+    },
+    {
+      "id": 53624265,
+      "nombre": "Unchained Twins - Rakea",
+      "cantidad": 1
+    },
+    {
+      "id": 31588572,
+      "nombre": "Unchained Twins - Sarama",
+      "cantidad": 1
+    },
+    {
+      "id": 88554436,
+      "nombre": "Unchained Soul of Shyama",
+      "cantidad": 1
+    },
+    {
+      "id": 1966438,
+      "nombre": "Abominable Unchained Soul",
+      "cantidad": 1
+    },
+    {
+      "id": 14558127,
+      "nombre": "Ash Blossom & Joyous Spring",
+      "cantidad": 3
+    },
+    {
+      "id": 42141493,
+      "nombre": "Mulcharmy Fuwalos",
+      "cantidad": 3
+    },
+    {
+      "id": 94145021,
+      "nombre": "Droll & Lock Bird",
+      "cantidad": 1
+    },
+    {
+      "id": 59438930,
+      "nombre": "Ghost Ogre & Snow Rabbit",
+      "cantidad": 3,
+      "reemplazo": {
+        "id": 84192580,
+        "nombre": "Mulcharmy Purulia"
+      }
+    },
+    {
+      "id": 27412542,
+      "nombre": "Abomination's Prison",
+      "cantidad": 3
+    },
+    {
+      "id": 67803035,
+      "nombre": "Reincarnation of the Unchained",
+      "cantidad": 3
+    },
+    {
+      "id": 84211599,
+      "nombre": "Pot of Prosperity",
+      "cantidad": 1
+    },
+    {
+      "id": 93898740,
+      "nombre": "Unchained Hunger",
+      "cantidad": 2
+    },
+    {
+      "id": 53417695,
+      "nombre": "Escape of the Unchained",
+      "cantidad": 2
+    },
+    {
+      "id": 80801743,
+      "nombre": "Abominable Chamber of the Unchained",
+      "cantidad": 1
+    }
+  ],
+  "extra": [
+    {
+      "id": 24269961,
+      "nombre": "Unchained Soul Lord of Yama",
+      "cantidad": 3
+    },
+    {
+      "id": 67680512,
+      "nombre": "Unchained Soul of Rage",
+      "cantidad": 2
+    },
+    {
+      "id": 93084621,
+      "nombre": "Unchained Soul of Anguish",
+      "cantidad": 1
+    },
+    {
+      "id": 21419436,
+      "nombre": "Unchained Soul of Abominable Rage",
+      "cantidad": 1
+    },
+    {
+      "id": 94014327,
+      "nombre": "Unchained Firelord of Yama",
+      "cantidad": 1
+    },
+    {
+      "id": 29479265,
+      "nombre": "Unchained Abomination",
+      "cantidad": 1
+    },
+    {
+      "id": 38342335,
+      "nombre": "Knightmare Unicorn",
+      "cantidad": 1
+    },
+    {
+      "id": 2857636,
+      "nombre": "Knightmare Phoenix",
+      "cantidad": 1,
+      "reemplazo": {
+        "id": 4731783,
+        "nombre": "A Bao A Qu, the Lightless Shadow"
+      }
+    },
+    {
+      "id": 71607202,
+      "nombre": "Muckraker From the Underworld",
+      "cantidad": 1
+    },
+    {
+      "id": 29301450,
+      "nombre": "S:P Little Knight",
+      "cantidad": 1
+    },
+    {
+      "id": 46772449,
+      "nombre": "Evilswarm Exciton Knight",
+      "cantidad": 1,
+      "reemplazo": {
+        "id": 71100270,
+        "nombre": "Goblin's Crazy Beast"
+      }
+    },
+    {
+      "id": 98127546,
+      "nombre": "Underworld Goddess of the Closed World",
+      "cantidad": 1
+    }
+  ],
+  "side": [
+    {
+      "id": 34267821,
+      "nombre": "Artifact Lancea",
+      "cantidad": 3
+    },
+    {
+      "id": 15693423,
+      "nombre": "Evenly Matched",
+      "cantidad": 2
+    },
+    {
+      "id": 8267140,
+      "nombre": "Cosmic Cyclone",
+      "cantidad": 2
+    },
+    {
+      "id": 18144507,
+      "nombre": "Harpie's Feather Duster",
+      "cantidad": 1
+    },
+    {
+      "id": 33854624,
+      "nombre": "Bystial Magnamhut",
+      "cantidad": 1
+    },
+    {
+      "id": 6637331,
+      "nombre": "Bystial Druiswurm",
+      "cantidad": 1
+    },
+    {
+      "id": 54693926,
+      "nombre": "Dark Ruler No More",
+      "cantidad": 2
+    },
+    {
+      "id": 27204311,
+      "nombre": "Nibiru, the Primal Being",
+      "cantidad": 3
+    }
+  ],
+  "conseguir": [
+    {
+      "id": 4731783,
+      "nombre": "A Bao A Qu, the Lightless Shadow",
+      "cantidad": 1,
+      "prioridad": "ya",
+      "motivo": "En las 6 listas. Destruye una carta o revive un monstruo en el turno del rival.",
+      "nota": "no se consigue fácil en Ecuador"
+    },
+    {
+      "id": 40366667,
+      "nombre": "Dominus Impulse",
+      "cantidad": 3,
+      "prioridad": "ya",
+      "motivo": "4 de 6 listas la juegan de 3 en el Main. Trampa que se activa desde la mano y niega una invocación especial."
+    },
+    {
+      "id": 84192580,
+      "nombre": "Mulcharmy Purulia",
+      "cantidad": 3,
+      "prioridad": "ya",
+      "motivo": "En las 6 listas (Main o Side). 2 van al Main por Ghost Ogre y 1 al Side."
+    },
+    {
+      "id": 71100270,
+      "nombre": "Goblin's Crazy Beast",
+      "cantidad": 1,
+      "prioridad": "ya",
+      "motivo": "3 de 6 listas. Se hace con 2 monstruos de nivel 6 (Sharvara, Shyama)."
+    },
+    {
+      "id": 66236707,
+      "nombre": "Gordian Slicer",
+      "cantidad": 3,
+      "prioridad": "pronto",
+      "motivo": "Side: 5 de 6 listas llevan 3. Devuelve a la mano las cartas boca arriba del rival y no se puede negar; es para ir segundo.",
+      "zona": "side"
+    },
+    {
+      "id": 4227096,
+      "nombre": "Mistaken Arrest",
+      "cantidad": 3,
+      "prioridad": "pronto",
+      "motivo": "Side: 3 de 6 listas. Por un turno nadie busca cartas del deck: frena a los decks de combo.",
+      "zona": "side"
+    },
+    {
+      "id": 14883228,
+      "nombre": "Typhoon",
+      "cantidad": 3,
+      "prioridad": "pronto",
+      "motivo": "Side: 4 de 6 listas. Destruye una mágica/trampa y se puede activar desde la mano.",
+      "zona": "side"
+    },
+    {
+      "id": 2729965,
+      "nombre": "Hey, Space Trunade!",
+      "cantidad": 2,
+      "prioridad": "esperar",
+      "motivo": "Side de 3 de 6 listas, pero cuesta ≈ $49 cada una (salió en octubre). El deck hace top sin ella.",
+      "zona": "side"
+    },
+    {
+      "id": 24203749,
+      "nombre": "The Great Gallant Bandit",
+      "cantidad": 2,
+      "prioridad": "esperar",
+      "motivo": "La usó el ganador de Ljubljana; ≈ $64 cada una. Solo si vas a un torneo grande."
+    },
+    {
+      "id": 14532163,
+      "nombre": "Lightning Storm",
+      "cantidad": 2,
+      "prioridad": "pronto",
+      "motivo": "Contra Toon, lo más jugado en Machala: de una sola vez destruye su Perfect Toon World, Mind Scan y Toon Terror. Cuesta ≈ $0.40.",
+      "zona": "side"
+    }
+  ],
+  "sidePlan": [
+    {
+      "rival": "Angelechy",
+      "entran": [
+        {
+          "id": 34267821,
+          "nombre": "Artifact Lancea",
+          "cantidad": 3
+        },
+        {
+          "id": 15693423,
+          "nombre": "Evenly Matched",
+          "cantidad": 2
+        },
+        {
+          "id": 18144507,
+          "nombre": "Harpie's Feather Duster",
+          "cantidad": 1
+        },
+        {
+          "id": 33854624,
+          "nombre": "Bystial Magnamhut",
+          "cantidad": 1
+        }
+      ],
+      "salen": [
+        {
+          "id": 59438930,
+          "nombre": "Ghost Ogre & Snow Rabbit",
+          "cantidad": 2
+        },
+        {
+          "id": 94145021,
+          "nombre": "Droll & Lock Bird",
+          "cantidad": 1
+        },
+        {
+          "id": 84211599,
+          "nombre": "Pot of Prosperity",
+          "cantidad": 1
+        },
+        {
+          "id": 10045474,
+          "nombre": "Infinite Impermanence",
+          "cantidad": 2
+        },
+        {
+          "id": 53417695,
+          "nombre": "Escape of the Unchained",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "rival": "Toon (Tri-Brigade, Ryzeal o puro) · con tu side de hoy",
+      "entran": [
+        {
+          "id": 34267821,
+          "nombre": "Artifact Lancea",
+          "cantidad": 3
+        },
+        {
+          "id": 8267140,
+          "nombre": "Cosmic Cyclone",
+          "cantidad": 2
+        },
+        {
+          "id": 18144507,
+          "nombre": "Harpie's Feather Duster",
+          "cantidad": 1
+        }
+      ],
+      "salen": [
+        {
+          "id": 59438930,
+          "nombre": "Ghost Ogre & Snow Rabbit",
+          "cantidad": 2
+        },
+        {
+          "id": 53417695,
+          "nombre": "Escape of the Unchained",
+          "cantidad": 1
+        },
+        {
+          "id": 84211599,
+          "nombre": "Pot of Prosperity",
+          "cantidad": 1
+        },
+        {
+          "id": 10045474,
+          "nombre": "Infinite Impermanence",
+          "cantidad": 1
+        },
+        {
+          "id": 94145021,
+          "nombre": "Droll & Lock Bird",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "rival": "Toon · cuando tengas el side nuevo",
+      "entran": [
+        {
+          "id": 66236707,
+          "nombre": "Gordian Slicer",
+          "cantidad": 3
+        },
+        {
+          "id": 14883228,
+          "nombre": "Typhoon",
+          "cantidad": 2
+        },
+        {
+          "id": 14532163,
+          "nombre": "Lightning Storm",
+          "cantidad": 1
+        }
+      ],
+      "salen": [
+        {
+          "id": 59438930,
+          "nombre": "Ghost Ogre & Snow Rabbit",
+          "cantidad": 2
+        },
+        {
+          "id": 53417695,
+          "nombre": "Escape of the Unchained",
+          "cantidad": 1
+        },
+        {
+          "id": 84211599,
+          "nombre": "Pot of Prosperity",
+          "cantidad": 1
+        },
+        {
+          "id": 10045474,
+          "nombre": "Infinite Impermanence",
+          "cantidad": 1
+        },
+        {
+          "id": 94145021,
+          "nombre": "Droll & Lock Bird",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "rival": "Elfnote / Artmage",
+      "entran": [
+        {
+          "id": 27204311,
+          "nombre": "Nibiru, the Primal Being",
+          "cantidad": 2
+        },
+        {
+          "id": 8267140,
+          "nombre": "Cosmic Cyclone",
+          "cantidad": 2
+        },
+        {
+          "id": 15693423,
+          "nombre": "Evenly Matched",
+          "cantidad": 2
+        }
+      ],
+      "salen": [
+        {
+          "id": 59438930,
+          "nombre": "Ghost Ogre & Snow Rabbit",
+          "cantidad": 2
+        },
+        {
+          "id": 94145021,
+          "nombre": "Droll & Lock Bird",
+          "cantidad": 1
+        },
+        {
+          "id": 53417695,
+          "nombre": "Escape of the Unchained",
+          "cantidad": 1
+        },
+        {
+          "id": 10045474,
+          "nombre": "Infinite Impermanence",
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "rival": "Yendo segundo",
+      "entran": [
+        {
+          "id": 28674152,
+          "nombre": "Radian, the Multidimensional Kaiju",
+          "cantidad": 2
+        },
+        {
+          "id": 54693926,
+          "nombre": "Dark Ruler No More",
+          "cantidad": 1
+        },
+        {
+          "id": 15693423,
+          "nombre": "Evenly Matched",
+          "cantidad": 2
+        }
+      ],
+      "salen": [
+        {
+          "id": 93898740,
+          "nombre": "Unchained Hunger",
+          "cantidad": 1
+        },
+        {
+          "id": 53417695,
+          "nombre": "Escape of the Unchained",
+          "cantidad": 1
+        },
+        {
+          "id": 94145021,
+          "nombre": "Droll & Lock Bird",
+          "cantidad": 1
+        },
+        {
+          "id": 10045474,
+          "nombre": "Infinite Impermanence",
+          "cantidad": 2
+        }
+      ]
+    }
+  ],
+  "guia": {
+    "idea": "Deck de demonios (Fiend) OSCURIDAD que gana valor destruyendo sus propias cartas: casi todo «Unchained» saca otra carta cuando lo destruyen. Juegas primero armando un tablero con Links que roban monstruos del rival (Soul of Rage / Anguish) y destrucción en el turno del rival; yendo segundo, rompes el tablero con Kamra, Abominable Soul y Abomination.",
+    "clave": [
+      "Unchained Oni of Shyma: invocación normal que saca un Unchained de nivel 4 o menos del deck.",
+      "Unchained Twins - Aruha: se invoca destruyendo una carta tuya; si la destruyen, saca otro Unchained.",
+      "Unchained Soul of Sharvara: al ir al cementerio coloca una mágica/trampa Unchained del deck.",
+      "Abomination's Prison y Reincarnation of the Unchained: buscadores; si los destruyes boca abajo, sacan un Unchained del deck.",
+      "Unchained Soul Lord of Yama (Link 2): busca un monstruo Unchained del deck o del cementerio.",
+      "Unchained Soul of Rage / Anguish: usan un monstruo del rival como material para hacer otro Link (lo «roban»)."
+    ],
+    "combo": [
+      "Invoca normal Unchained Oni of Shyma → saca Unchained Twins - Aruha del deck y destruye una carta tuya (destruye a Aruha).",
+      "Aruha fue destruida: saca otro Unchained del deck (por ejemplo Twins - Sarama o Rakea).",
+      "Con Shyma y el Twin haz Unchained Soul Lord of Yama → busca Unchained Soul of Sharvara.",
+      "Usa a Sharvara desde la mano (efecto rápido) destruyendo una carta tuya boca abajo o un Fiend: se invoca; cuando vaya al cementerio, coloca una mágica/trampa Unchained.",
+      "Usa Yama + Sharvara (Soul) para Unchained Soul of Rage; deja colocadas Prison / Escape para destruirlas en el turno del rival y seguir sacando monstruos.",
+      "Cierra con Unchained Abomination o Firelord of Yama según los materiales que te queden."
+    ],
+    "consejos": [
+      "Antes de destruir algo tuyo, piensa qué saca: casi todo da valor solo una vez por turno.",
+      "Prison, Escape y Hunger dan más valor si las destruyes estando COLOCADAS (boca abajo).",
+      "Soul of Rage solo roba en el turno del rival y solo monstruos invocados de forma especial.",
+      "Kamra roba carta si destruye un monstruo y destruye otra carta del campo si destruye una trampa: elige bien qué 3 cartas destruyes.",
+      "Ash y Fuwalos: guárdalas para la primera carta importante del rival, no para la primera que veas."
+    ]
+  },
+  "plan": {
+    "puesto": 1,
+    "nivel": "Torneo",
+    "veredicto": "Es tu deck para competir y ya está casi completo. Entre el 25 de octubre y el 22 de noviembre Unchained hizo 6 tops en regionales (ganó Ljubljana; Top 4 en Oklahoma, Zoetermeer y Hoorn; Top 8 en Lima y en el UK Open). Tu lista es la del Top 4 de Oklahoma con 4 reemplazos temporales.",
+    "cambios": [
+      "Extra Deck primero: Underworld Goddess y A Bao A Qu están en las 6 listas de torneo y Goblin's Crazy Beast en 3. En EE. UU. cuestan centavos; son la mejora más barata del deck.",
+      "Main: 3 Dominus Impulse (4 de 6 listas la juegan de 3) en lugar de Infinite Impermanence, y Mulcharmy Purulia en lugar de Ghost Ogre.",
+      "Side: nadie está usando Artifact Lancea, Evenly Matched ni Cosmic Cyclone. Lo que se repite es 3 Gordian Slicer (5 de 6), 3 Typhoon (4 de 6) y 3 Mistaken Arrest (3 de 6). Mantén tu side actual hasta comprarlas.",
+      "Ya tienes la 2ª Escape of the Unchained y Abominable Chamber: varias listas de torneo juegan 2 Escape + 1 Chamber en el Main (por ejemplo, en lugar de Pot of Prosperity o de Unchained Hunger). Pruébalo en Dueling Nexus.",
+      "Puede esperar: Hey, Space Trunade! (≈ $49 c/u) y The Great Gallant Bandit (≈ $64 c/u). Son cartas nuevas y caras; el deck hace top sin ellas.",
+      "Variante con lo que ya tienes: «Fiendsmith Unchained» hizo Top 4 en Spijkenisse usando 2 Engraver, 2 Tract, Lacrima the Crimson Tears, Fabled Lurrie, Requiem, Sequence y Desirae, que ya son tuyas. Solo te faltaría Fiendsmith's Lacrima (Fusión), Promethean Princess y Evilswarm Exciton Knight."
+    ]
+  },
+  "objetivo": {
+    "fuente": "Top 4 Oklahoma City (Corin Lozano, 14-11-2026), con el side que más se repite en las 6 listas de noviembre y sin las cartas de más de $40.",
+    "main": [
+      {
+        "id": 31531914,
+        "nombre": "Unchained Oni of Shyma",
+        "cantidad": 3
+      },
+      {
+        "id": 95136979,
+        "nombre": "Unchained Oni of Shara",
+        "cantidad": 3
+      },
+      {
+        "id": 68625623,
+        "nombre": "Unchained Zealot - Kamra",
+        "cantidad": 3
+      },
+      {
+        "id": 41165831,
+        "nombre": "Unchained Soul of Sharvara",
+        "cantidad": 3
+      },
+      {
+        "id": 26236560,
+        "nombre": "Unchained Twins - Aruha",
+        "cantidad": 3
+      },
+      {
+        "id": 53624265,
+        "nombre": "Unchained Twins - Rakea",
+        "cantidad": 1
+      },
+      {
+        "id": 31588572,
+        "nombre": "Unchained Twins - Sarama",
+        "cantidad": 1
+      },
+      {
+        "id": 88554436,
+        "nombre": "Unchained Soul of Shyama",
+        "cantidad": 1
+      },
+      {
+        "id": 1966438,
+        "nombre": "Abominable Unchained Soul",
+        "cantidad": 1
+      },
+      {
+        "id": 14558127,
+        "nombre": "Ash Blossom & Joyous Spring",
+        "cantidad": 3
+      },
+      {
+        "id": 42141493,
+        "nombre": "Mulcharmy Fuwalos",
+        "cantidad": 3
+      },
+      {
+        "id": 94145021,
+        "nombre": "Droll & Lock Bird",
+        "cantidad": 1
+      },
+      {
+        "id": 84192580,
+        "nombre": "Mulcharmy Purulia",
+        "cantidad": 2
+      },
+      {
+        "id": 27412542,
+        "nombre": "Abomination's Prison",
+        "cantidad": 3
+      },
+      {
+        "id": 67803035,
+        "nombre": "Reincarnation of the Unchained",
+        "cantidad": 3
+      },
+      {
+        "id": 84211599,
+        "nombre": "Pot of Prosperity",
+        "cantidad": 1
+      },
+      {
+        "id": 40366667,
+        "nombre": "Dominus Impulse",
+        "cantidad": 3
+      },
+      {
+        "id": 93898740,
+        "nombre": "Unchained Hunger",
+        "cantidad": 1
+      },
+      {
+        "id": 53417695,
+        "nombre": "Escape of the Unchained",
+        "cantidad": 1
+      }
+    ],
+    "extra": [
+      {
+        "id": 24269961,
+        "nombre": "Unchained Soul Lord of Yama",
+        "cantidad": 3
+      },
+      {
+        "id": 67680512,
+        "nombre": "Unchained Soul of Rage",
+        "cantidad": 2
+      },
+      {
+        "id": 93084621,
+        "nombre": "Unchained Soul of Anguish",
+        "cantidad": 1
+      },
+      {
+        "id": 21419436,
+        "nombre": "Unchained Soul of Abominable Rage",
+        "cantidad": 1
+      },
+      {
+        "id": 94014327,
+        "nombre": "Unchained Firelord of Yama",
+        "cantidad": 1
+      },
+      {
+        "id": 29479265,
+        "nombre": "Unchained Abomination",
+        "cantidad": 1
+      },
+      {
+        "id": 38342335,
+        "nombre": "Knightmare Unicorn",
+        "cantidad": 1
+      },
+      {
+        "id": 4731783,
+        "nombre": "A Bao A Qu, the Lightless Shadow",
+        "cantidad": 1
+      },
+      {
+        "id": 98127546,
+        "nombre": "Underworld Goddess of the Closed World",
+        "cantidad": 1
+      },
+      {
+        "id": 71607202,
+        "nombre": "Muckraker From the Underworld",
+        "cantidad": 1
+      },
+      {
+        "id": 29301450,
+        "nombre": "S:P Little Knight",
+        "cantidad": 1
+      },
+      {
+        "id": 71100270,
+        "nombre": "Goblin's Crazy Beast",
+        "cantidad": 1
+      }
+    ],
+    "side": [
+      {
+        "id": 66236707,
+        "nombre": "Gordian Slicer",
+        "cantidad": 3
+      },
+      {
+        "id": 14883228,
+        "nombre": "Typhoon",
+        "cantidad": 3
+      },
+      {
+        "id": 4227096,
+        "nombre": "Mistaken Arrest",
+        "cantidad": 3
+      },
+      {
+        "id": 27204311,
+        "nombre": "Nibiru, the Primal Being",
+        "cantidad": 2
+      },
+      {
+        "id": 84192580,
+        "nombre": "Mulcharmy Purulia",
+        "cantidad": 1
+      },
+      {
+        "id": 33854624,
+        "nombre": "Bystial Magnamhut",
+        "cantidad": 1
+      },
+      {
+        "id": 6637331,
+        "nombre": "Bystial Druiswurm",
+        "cantidad": 1
+      },
+      {
+        "id": 80801743,
+        "nombre": "Abominable Chamber of the Unchained",
+        "cantidad": 1
+      }
+    ]
+  }
+}

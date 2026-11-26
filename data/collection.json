@@ -1,0 +1,1351 @@
+{
+  "actualizado": "2026-11-25",
+  "nota": "Cantidades supuestas a partir de las listas: revisa y quita «por confirmar».",
+  "cartas": [
+    {
+      "id": 80801743,
+      "nombre": "Abominable Chamber of the Unchained",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "nota": "Al menos 1 (están en el Unchained armado, 26-11-2026)"
+    },
+    {
+      "id": 1966438,
+      "nombre": "Abominable Unchained Soul",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 27412542,
+      "nombre": "Abomination's Prison",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 81555617,
+      "nombre": "Ad Libitum of Despia",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 28143384,
+      "nombre": "Aerial Eater",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 87746184,
+      "nombre": "Albion the Branded Dragon",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 38811586,
+      "nombre": "Albion the Sanctifire Dragon",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 25451383,
+      "nombre": "Albion the Shrouded Dragon",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 1475311,
+      "nombre": "Allure of Darkness",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 62962630,
+      "nombre": "Aluber the Jester of Despia",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 25862681,
+      "nombre": "Ancient Fairy Dragon",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "extra"
+    },
+    {
+      "id": 36320744,
+      "nombre": "Angelica, Princess of Noble Arms",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "extra"
+    },
+    {
+      "id": 58921041,
+      "nombre": "Anti-Spell Fragrance",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 4280258,
+      "nombre": "Apollousa, Bow of the Goddess",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 34267821,
+      "nombre": "Artifact Lancea",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 14558127,
+      "nombre": "Ash Blossom & Joyous Spring",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 54484652,
+      "nombre": "Black Luster Soldier - Super Soldier",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "motor-bls"
+    },
+    {
+      "id": 9012916,
+      "nombre": "Black-Winged Dragon",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 72714392,
+      "nombre": "Blackwing - Vayu the Emblem of Honor",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "otros"
+    },
+    {
+      "id": 95515789,
+      "nombre": "Blazing Cartesia, the Virtuous",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 35480699,
+      "nombre": "Book of Eclipse",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 14087893,
+      "nombre": "Book of Moon",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 6763530,
+      "nombre": "Branded Banishment",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 44362883,
+      "nombre": "Branded Fusion",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 82738008,
+      "nombre": "Branded in Red",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 34995106,
+      "nombre": "Branded in White",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 36637374,
+      "nombre": "Branded Opening",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 17751597,
+      "nombre": "Branded Retribution",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 6637331,
+      "nombre": "Bystial Druiswurm",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 33854624,
+      "nombre": "Bystial Magnamhut",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 97077563,
+      "nombre": "Call of the Haunted",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 24224830,
+      "nombre": "Called by the Grave",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 82633039,
+      "nombre": "Castel, the Skyblaster Musketeer",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 64599569,
+      "nombre": "Chimeratech Overdragon",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 92565383,
+      "nombre": "Cornfield Coatl",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "otros"
+    },
+    {
+      "id": 8267140,
+      "nombre": "Cosmic Cyclone",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 65681983,
+      "nombre": "Crossout Designator",
+      "cantidad": 4,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 70095154,
+      "nombre": "Cyber Dragon",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 23893227,
+      "nombre": "Cyber Dragon Core",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 56364287,
+      "nombre": "Cyber Dragon Herz",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 10443958,
+      "nombre": "Cyber Dragon Infinity",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 1142880,
+      "nombre": "Cyber Dragon Nachster",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 58069384,
+      "nombre": "Cyber Dragon Nova",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 60600126,
+      "nombre": "Cyber Emergency",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 1546123,
+      "nombre": "Cyber End Dragon",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 86686671,
+      "nombre": "Cyber Repair Plant",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 64753988,
+      "nombre": "Cyberdark Realm",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "otros"
+    },
+    {
+      "id": 55704856,
+      "nombre": "Cyberload Fusion",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 63031396,
+      "nombre": "Cybernetic Horizon",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 82428674,
+      "nombre": "Cybernetic Overflow",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 24508238,
+      "nombre": "D.D. Crow",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 46593546,
+      "nombre": "D/D/D Deviser King Deus Machinex",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "motor-ddd"
+    },
+    {
+      "id": 71612253,
+      "nombre": "D/D/D Marksman King Tell",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "motor-ddd"
+    },
+    {
+      "id": 74069667,
+      "nombre": "D/D/D Oblivion King Abyss Ragnarok",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "motor-ddd"
+    },
+    {
+      "id": 25857977,
+      "nombre": "D/D/D Vice King Requiem",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "motor-ddd"
+    },
+    {
+      "id": 79559912,
+      "nombre": "D/D/D Wave High King Caesar",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 3758046,
+      "nombre": "D/D/D Wave King Caesar",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "motor-ddd"
+    },
+    {
+      "id": 27873305,
+      "nombre": "D/D/D Wave Oblivion King Caesar Ragnarok",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "motor-ddd"
+    },
+    {
+      "id": 81034083,
+      "nombre": "Dark Beckoning Beast",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 46372010,
+      "nombre": "Dark Contract with the Gate",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "motor-ddd"
+    },
+    {
+      "id": 98696958,
+      "nombre": "Dark Corridor",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "staples"
+    },
+    {
+      "id": 54693926,
+      "nombre": "Dark Ruler No More",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 72272462,
+      "nombre": "Despian Quaeritis",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 36577931,
+      "nombre": "Despian Tragedy",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 83326048,
+      "nombre": "Dimensional Barrier",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 90448279,
+      "nombre": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 93332803,
+      "nombre": "Dogoran, the Mad Flame Kaiju",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 94145021,
+      "nombre": "Droll & Lock Bird",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 97268402,
+      "nombre": "Effect Veiler",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 13256226,
+      "nombre": "Elemental HERO Spirit of Neos",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "otros"
+    },
+    {
+      "id": 67723438,
+      "nombre": "Emergency Teleport",
+      "cantidad": 3,
+      "porConfirmar": false
+    },
+    {
+      "id": 53417695,
+      "nombre": "Escape of the Unchained",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "nota": "Al menos 2 (están en el Unchained armado, 26-11-2026)"
+    },
+    {
+      "id": 15693423,
+      "nombre": "Evenly Matched",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 9205573,
+      "nombre": "Evil★Twin Ki-sikil",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "motor-eviltwin"
+    },
+    {
+      "id": 6636319,
+      "nombre": "Evil★Twin Ki-sikil Deal",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "motor-eviltwin"
+    },
+    {
+      "id": 36609518,
+      "nombre": "Evil★Twin Lil-la",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "motor-eviltwin"
+    },
+    {
+      "id": 93672138,
+      "nombre": "Evil★Twin's Trouble Sunny",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "motor-eviltwin"
+    },
+    {
+      "id": 97651498,
+      "nombre": "Fabled Lurrie",
+      "cantidad": 1,
+      "porConfirmar": false
+    },
+    {
+      "id": 68468459,
+      "nombre": "Fallen of Albaz",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 60764609,
+      "nombre": "Fiendsmith Engraver",
+      "cantidad": 2,
+      "porConfirmar": false
+    },
+    {
+      "id": 99989863,
+      "nombre": "Fiendsmith in Paradise",
+      "cantidad": 1,
+      "porConfirmar": false
+    },
+    {
+      "id": 32991300,
+      "nombre": "Fiendsmith's Agnumday",
+      "cantidad": 1,
+      "porConfirmar": false
+    },
+    {
+      "id": 82135803,
+      "nombre": "Fiendsmith's Desirae",
+      "cantidad": 1,
+      "porConfirmar": false
+    },
+    {
+      "id": 46640168,
+      "nombre": "Fiendsmith's Lacrima",
+      "cantidad": 0,
+      "porConfirmar": true,
+      "nota": "No salió en la foto del 24-11-2026"
+    },
+    {
+      "id": 2463794,
+      "nombre": "Fiendsmith's Requiem",
+      "cantidad": 1,
+      "porConfirmar": false
+    },
+    {
+      "id": 35552985,
+      "nombre": "Fiendsmith's Sanct",
+      "cantidad": 1,
+      "porConfirmar": false
+    },
+    {
+      "id": 49867899,
+      "nombre": "Fiendsmith's Sequence",
+      "cantidad": 1,
+      "porConfirmar": false
+    },
+    {
+      "id": 98567237,
+      "nombre": "Fiendsmith's Tract",
+      "cantidad": 2,
+      "porConfirmar": false
+    },
+    {
+      "id": 21637210,
+      "nombre": "Firewall Dragon Singularity",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "extra"
+    },
+    {
+      "id": 95784714,
+      "nombre": "Flying Mary, the Wandering Ghost Ship",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "extra"
+    },
+    {
+      "id": 6498706,
+      "nombre": "Fusion Deployment",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 36956512,
+      "nombre": "Gadarla, the Mystery Dust Kaiju",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 46659709,
+      "nombre": "Galaxy Soldier",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 19355597,
+      "nombre": "Gem-Knight Lady Brilliant Diamond",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 59438930,
+      "nombre": "Ghost Ogre & Snow Rabbit",
+      "cantidad": 4,
+      "porConfirmar": true,
+      "seccion": "staples"
+    },
+    {
+      "id": 55204071,
+      "nombre": "Gimmick Puppet Nightmare",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 53334471,
+      "nombre": "Gozen Match",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 24915933,
+      "nombre": "Granguignol the Dusk Dragon",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 24215921,
+      "nombre": "Gruesome Grave Squirmer",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 11321089,
+      "nombre": "Guardian Chimera",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 45883110,
+      "nombre": "Guiding Quem, the Virtuous",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 18144507,
+      "nombre": "Harpie's Feather Duster",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 12266229,
+      "nombre": "Illusion of Chaos",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "motor-bls"
+    },
+    {
+      "id": 30459350,
+      "nombre": "Imperial Iron Wall",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "staples"
+    },
+    {
+      "id": 10045474,
+      "nombre": "Infinite Impermanence",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 63941210,
+      "nombre": "Jizukiru, the Star Destroying Kaiju",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 48626373,
+      "nombre": "Kashtira Arise-Heart",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 32909498,
+      "nombre": "Kashtira Fenrir",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 31149212,
+      "nombre": "Kashtira Riseheart",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "otros"
+    },
+    {
+      "id": 16528181,
+      "nombre": "King's Sarcophagus",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "staples"
+    },
+    {
+      "id": 75452921,
+      "nombre": "Knightmare Cerberus",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 65330383,
+      "nombre": "Knightmare Gryphon",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 2857636,
+      "nombre": "Knightmare Phoenix",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 38342335,
+      "nombre": "Knightmare Unicorn",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 55885348,
+      "nombre": "Kozmo Dark Destroyer",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 64063868,
+      "nombre": "Kozmo Dark Eclipser",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 29491334,
+      "nombre": "Kozmo DOG Fighter",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 31061682,
+      "nombre": "Kozmo Farmgirl",
+      "cantidad": 3,
+      "porConfirmar": false
+    },
+    {
+      "id": 20849090,
+      "nombre": "Kozmo Forerunner",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 94454495,
+      "nombre": "Kozmo Sliprider",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 1274455,
+      "nombre": "Kozmo Soartroopers",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 56907986,
+      "nombre": "Kozmo Strawman",
+      "cantidad": 2,
+      "porConfirmar": false
+    },
+    {
+      "id": 64280356,
+      "nombre": "Kozmo Tincan",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 90452877,
+      "nombre": "Kozmojo",
+      "cantidad": 3,
+      "porConfirmar": false
+    },
+    {
+      "id": 12408276,
+      "nombre": "Kozmoll Dark Lady",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 93302695,
+      "nombre": "Kozmoll Wickedwitch",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 67237709,
+      "nombre": "Kozmotown",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 29726552,
+      "nombre": "Kumongous, the Sticky String Kaiju",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 28803166,
+      "nombre": "Lacrima the Crimson Tears",
+      "cantidad": 1,
+      "porConfirmar": false
+    },
+    {
+      "id": 36326160,
+      "nombre": "Live☆Twin Ki-sikil",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "motor-eviltwin"
+    },
+    {
+      "id": 73810864,
+      "nombre": "Live☆Twin Lil-la",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "motor-eviltwin"
+    },
+    {
+      "id": 81078880,
+      "nombre": "Live☆Twin Lil-la Treat",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "motor-eviltwin"
+    },
+    {
+      "id": 37582948,
+      "nombre": "Live☆Twin Sunny's Snitch",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "motor-eviltwin"
+    },
+    {
+      "id": 63995093,
+      "nombre": "Machine Duplication",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 62279055,
+      "nombre": "Magic Cylinder",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 95492061,
+      "nombre": "Manju of the Ten Thousand Hands",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "motor-bls"
+    },
+    {
+      "id": 6855503,
+      "nombre": "Masquerade the Blazing Dragon",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 85059922,
+      "nombre": "Master of Chaos",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "motor-bls"
+    },
+    {
+      "id": 23434538,
+      "nombre": "Maxx \"C\"",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 37520316,
+      "nombre": "Mind Control",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 28954097,
+      "nombre": "Mirror Swordknight",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "otros"
+    },
+    {
+      "id": 44146295,
+      "nombre": "Mirrorjade the Iceblade Dragon",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 19508728,
+      "nombre": "Moon Mirror Shield",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "staples"
+    },
+    {
+      "id": 71818935,
+      "nombre": "Moon of the Closed Heaven",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 71607202,
+      "nombre": "Muckraker From the Underworld",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 42141493,
+      "nombre": "Mulcharmy Fuwalos",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 5318639,
+      "nombre": "Mystical Space Typhoon",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 93860227,
+      "nombre": "Necroquip Princess",
+      "cantidad": 1,
+      "porConfirmar": false,
+      "seccion": "extra"
+    },
+    {
+      "id": 56787189,
+      "nombre": "New Frontier",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 27204311,
+      "nombre": "Nibiru, the Primal Being",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "nota": "Al menos 3 (están en el Unchained armado, 26-11-2026)"
+    },
+    {
+      "id": 65261141,
+      "nombre": "Nightmare Pain",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 93729896,
+      "nombre": "Nightmare Throne",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 25807544,
+      "nombre": "Noble Arms Museum",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "staples"
+    },
+    {
+      "id": 58820923,
+      "nombre": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 16178683,
+      "nombre": "Odd-Eyes Pendulum Dragon",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "otros"
+    },
+    {
+      "id": 80312545,
+      "nombre": "Opening of the Spirit Gates",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 35261759,
+      "nombre": "Pot of Desires",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 49238328,
+      "nombre": "Pot of Extravagance",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 84211599,
+      "nombre": "Pot of Prosperity",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 37630732,
+      "nombre": "Power Bond",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 69946549,
+      "nombre": "Predaplant Dragostapelia",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 96729612,
+      "nombre": "Preparation of Rites",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "motor-bls"
+    },
+    {
+      "id": 28674152,
+      "nombre": "Radian, the Multidimensional Kaiju",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 71222868,
+      "nombre": "Raidraptor - Rising Rebellion Falcon",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 37818794,
+      "nombre": "Red-Eyes Dark Dragoon",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 67803035,
+      "nombre": "Reincarnation of the Unchained",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 92107604,
+      "nombre": "Runick Fountain",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "staples"
+    },
+    {
+      "id": 29301450,
+      "nombre": "S:P Little Knight",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 62318994,
+      "nombre": "Samsara D Lotus",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 61976639,
+      "nombre": "Secret Password",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "motor-eviltwin"
+    },
+    {
+      "id": 3819470,
+      "nombre": "Seven Tools of the Bandit",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 90829280,
+      "nombre": "Spirit of Yubel",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 1906812,
+      "nombre": "Sprind the Irondash Dragon",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 48130397,
+      "nombre": "Super Polymerization",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 14094090,
+      "nombre": "Super Soldier Ritual",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "motor-bls"
+    },
+    {
+      "id": 93039339,
+      "nombre": "Super Starslayer TY-PHON - Sky Crisis",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 72302403,
+      "nombre": "Swords of Revealing Light",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 73628505,
+      "nombre": "Terraforming",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "staples"
+    },
+    {
+      "id": 24207889,
+      "nombre": "There Can Be Only One",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 48770333,
+      "nombre": "Thunder King, the Lightningstrike Kaiju",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 55285840,
+      "nombre": "Time Thief Redoer",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 41373230,
+      "nombre": "Titaniklad the Ash Dragon",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 80101899,
+      "nombre": "Trap Trick",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 19096726,
+      "nombre": "Tri-Brigade Mercourier",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 25311006,
+      "nombre": "Triple Tactics Talent",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 29479265,
+      "nombre": "Unchained Abomination",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 94014327,
+      "nombre": "Unchained Firelord of Yama",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 93898740,
+      "nombre": "Unchained Hunger",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "nota": "Al menos 2 (están en el Unchained armado, 26-11-2026)"
+    },
+    {
+      "id": 95136979,
+      "nombre": "Unchained Oni of Shara",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 31531914,
+      "nombre": "Unchained Oni of Shyma",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 24269961,
+      "nombre": "Unchained Soul Lord of Yama",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 21419436,
+      "nombre": "Unchained Soul of Abominable Rage",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 93084621,
+      "nombre": "Unchained Soul of Anguish",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 89019964,
+      "nombre": "Unchained Soul of Disaster",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 67680512,
+      "nombre": "Unchained Soul of Rage",
+      "cantidad": 2,
+      "porConfirmar": true
+    },
+    {
+      "id": 41165831,
+      "nombre": "Unchained Soul of Sharvara",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 88554436,
+      "nombre": "Unchained Soul of Shyama",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 26236560,
+      "nombre": "Unchained Twins - Aruha",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 53624265,
+      "nombre": "Unchained Twins - Rakea",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 31588572,
+      "nombre": "Unchained Twins - Sarama",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 68625623,
+      "nombre": "Unchained Zealot - Kamra",
+      "cantidad": 3,
+      "porConfirmar": true
+    },
+    {
+      "id": 38844957,
+      "nombre": "Urgent Ritual Art",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "motor-bls"
+    },
+    {
+      "id": 81122844,
+      "nombre": "Wind-Up Carrier Zenmaity",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "motor-windup"
+    },
+    {
+      "id": 95714077,
+      "nombre": "Wind-Up Factory",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "motor-windup"
+    },
+    {
+      "id": 16923472,
+      "nombre": "Wind-Up Hunter",
+      "cantidad": 1,
+      "porConfirmar": true,
+      "seccion": "prohibidas"
+    },
+    {
+      "id": 59297550,
+      "nombre": "Wind-Up Magician",
+      "cantidad": 2,
+      "porConfirmar": true,
+      "seccion": "motor-windup"
+    },
+    {
+      "id": 42874792,
+      "nombre": "Wind-Up Rabbit",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "motor-windup"
+    },
+    {
+      "id": 57962537,
+      "nombre": "Wind-Up Rat",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "motor-windup"
+    },
+    {
+      "id": 25484449,
+      "nombre": "Wind-Up Shark",
+      "cantidad": 3,
+      "porConfirmar": true,
+      "seccion": "motor-windup"
+    },
+    {
+      "id": 78371393,
+      "nombre": "Yubel",
+      "cantidad": 1,
+      "porConfirmar": true
+    },
+    {
+      "id": 98127546,
+      "nombre": "Underworld Goddess of the Closed World",
+      "cantidad": 1,
+      "porConfirmar": false
+    },
+    {
+      "id": 46772449,
+      "nombre": "Evilswarm Exciton Knight",
+      "cantidad": 1,
+      "porConfirmar": false
+    }
+  ]
+}

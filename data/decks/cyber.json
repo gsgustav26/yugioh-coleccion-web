@@ -1,0 +1,391 @@
+{
+  "id": "cyber",
+  "nombre": "Cyber Dragon",
+  "tipo": "fun",
+  "funda": "Azul",
+  "nota": "",
+  "main": [
+    {
+      "id": 70095154,
+      "nombre": "Cyber Dragon",
+      "cantidad": 3
+    },
+    {
+      "id": 23893227,
+      "nombre": "Cyber Dragon Core",
+      "cantidad": 3
+    },
+    {
+      "id": 56364287,
+      "nombre": "Cyber Dragon Herz",
+      "cantidad": 3
+    },
+    {
+      "id": 1142880,
+      "nombre": "Cyber Dragon Nachster",
+      "cantidad": 2
+    },
+    {
+      "id": 46659709,
+      "nombre": "Galaxy Soldier",
+      "cantidad": 2
+    },
+    {
+      "id": 32909498,
+      "nombre": "Kashtira Fenrir",
+      "cantidad": 3
+    },
+    {
+      "id": 60600126,
+      "nombre": "Cyber Emergency",
+      "cantidad": 3
+    },
+    {
+      "id": 63031396,
+      "nombre": "Cybernetic Horizon",
+      "cantidad": 3
+    },
+    {
+      "id": 48130397,
+      "nombre": "Super Polymerization",
+      "cantidad": 3
+    },
+    {
+      "id": 63995093,
+      "nombre": "Machine Duplication",
+      "cantidad": 2
+    },
+    {
+      "id": 37630732,
+      "nombre": "Power Bond",
+      "cantidad": 2
+    },
+    {
+      "id": 55704856,
+      "nombre": "Cyberload Fusion",
+      "cantidad": 1
+    },
+    {
+      "id": 86686671,
+      "nombre": "Cyber Repair Plant",
+      "cantidad": 1
+    },
+    {
+      "id": 14087893,
+      "nombre": "Book of Moon",
+      "cantidad": 2
+    },
+    {
+      "id": 35480699,
+      "nombre": "Book of Eclipse",
+      "cantidad": 2
+    },
+    {
+      "id": 37520316,
+      "nombre": "Mind Control",
+      "cantidad": 1
+    },
+    {
+      "id": 72302403,
+      "nombre": "Swords of Revealing Light",
+      "cantidad": 1
+    },
+    {
+      "id": 84211599,
+      "nombre": "Pot of Prosperity",
+      "cantidad": 1
+    },
+    {
+      "id": 19508728,
+      "nombre": "Moon Mirror Shield",
+      "cantidad": 1
+    },
+    {
+      "id": 82428674,
+      "nombre": "Cybernetic Overflow",
+      "cantidad": 1
+    }
+  ],
+  "extra": [
+    {
+      "id": 1546123,
+      "nombre": "Cyber End Dragon",
+      "cantidad": 1
+    },
+    {
+      "id": 64599569,
+      "nombre": "Chimeratech Overdragon",
+      "cantidad": 1
+    },
+    {
+      "id": 58069384,
+      "nombre": "Cyber Dragon Nova",
+      "cantidad": 1
+    },
+    {
+      "id": 10443958,
+      "nombre": "Cyber Dragon Infinity",
+      "cantidad": 1
+    },
+    {
+      "id": 90448279,
+      "nombre": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "cantidad": 1
+    },
+    {
+      "id": 38342335,
+      "nombre": "Knightmare Unicorn",
+      "cantidad": 1
+    }
+  ],
+  "side": [],
+  "conseguir": [],
+  "sidePlan": [],
+  "guia": {
+    "idea": "Máquinas de LUZ: invocas varios Cyber Dragon rápido y los fusionas en Cyber End Dragon o Chimeratech, o los subes a Xyz (Nova → Infinity). Deck de golpes fuertes.",
+    "clave": [
+      "Cyber Dragon Core: al invocarlo normal busca una mágica/trampa «Cyber»; desde el cementerio saca un Cyber Dragon del deck si solo el rival tiene monstruos. Cuenta como Cyber Dragon.",
+      "Cyber Emergency: busca un monstruo «Cyber Dragon» (o una Máquina LUZ que no se invoca normal).",
+      "Cyber Dragon Nachster y Herz: hacen nivel 5 para Xyz y llenan el campo.",
+      "Power Bond: fusión con el doble de ataque para cerrar partidas.",
+      "Super Polymerization: fusiona usando monstruos del rival (Chimeratech Overdragon)."
+    ],
+    "combo": [
+      "Invoca normal Cyber Dragon Core → busca Cyber Emergency (o Cybernetic Horizon).",
+      "Saca Cyber Dragon de forma especial (si el rival tiene monstruos y tú no) y busca otro con Emergency.",
+      "Dos Cyber Dragon nivel 5 → Cyber Dragon Nova → Cyber Dragon Infinity.",
+      "Yendo segundo: Super Polymerization sobre los monstruos del rival → Chimeratech Overdragon."
+    ],
+    "consejos": [
+      "Cyber Dragon necesita que el rival tenga monstruos y tú no: piensa el orden.",
+      "Book of Moon y Book of Eclipse sirven para frenar al rival o salvar un monstruo tuyo."
+    ]
+  },
+  "plan": {
+    "puesto": 4,
+    "nivel": "Casual",
+    "veredicto": "Cyber Dragon hizo su último top en abril de 2026 (Top 8 Johannesburg). La versión buena mezcla Cyber Dragon con Cyberdark: tus Cyberdark Realm de la carpeta entran al deck. Completar el motor es barato; lo caro son las hand traps de un segundo juego.",
+    "cambios": [
+      "La lista de torneo usa menos Cyber Dragon y más piezas Cyberdark (3 Cyberdark Claw, Cyberdark Wurm, Cyberdark Chimera) junto a tus 3 Cyberdark Realm.",
+      "Salen Galaxy Soldier, Kashtira Fenrir, Super Polymerization, Machine Duplication, Book of Moon/Eclipse, Mind Control, Swords y Pot of Prosperity.",
+      "Extra: 3 Chimeratech Rampage Dragon, Chimeratech Fortress, Megafleet, Cyber Eternity, Sieger, 2 Clockwork Knight.",
+      "Lo caro: Cyberdark Wurm (≈ $6), Cyber Dragon Sieger (≈ $4), Therion \"King\" Regulus (≈ $3) y un segundo juego de Fuwalos (≈ $12 c/u).",
+      "Las cartas nuevas de noviembre (Luminous Mech Dragon, Final Strike Dragon) aún no tienen resultados; quedan en la lista de compras como opcionales."
+    ]
+  },
+  "objetivo": {
+    "fuente": "Top 8 Johannesburg WCQ Regional (abril 2026), el último top de Cyber Dragon puro, sin Triple Tactics Talent, Crossout Designator ni Called by the Grave (prohibidas) y con 1 sola Droll.",
+    "main": [
+      {
+        "id": 70095154,
+        "nombre": "Cyber Dragon",
+        "cantidad": 1
+      },
+      {
+        "id": 19715246,
+        "nombre": "Cyber Jormungardr",
+        "cantidad": 1
+      },
+      {
+        "id": 23893227,
+        "nombre": "Cyber Dragon Core",
+        "cantidad": 3
+      },
+      {
+        "id": 56364287,
+        "nombre": "Cyber Dragon Herz",
+        "cantidad": 1
+      },
+      {
+        "id": 1142880,
+        "nombre": "Cyber Dragon Nachster",
+        "cantidad": 1
+      },
+      {
+        "id": 56100345,
+        "nombre": "Cyberdark Wurm",
+        "cantidad": 1
+      },
+      {
+        "id": 82562802,
+        "nombre": "Cyberdark Claw",
+        "cantidad": 3
+      },
+      {
+        "id": 5370235,
+        "nombre": "Cyberdark Chimera",
+        "cantidad": 1
+      },
+      {
+        "id": 10604644,
+        "nombre": "Therion \"King\" Regulus",
+        "cantidad": 1
+      },
+      {
+        "id": 42141493,
+        "nombre": "Mulcharmy Fuwalos",
+        "cantidad": 3
+      },
+      {
+        "id": 14558127,
+        "nombre": "Ash Blossom & Joyous Spring",
+        "cantidad": 3
+      },
+      {
+        "id": 73642296,
+        "nombre": "Ghost Belle & Haunted Mansion",
+        "cantidad": 3
+      },
+      {
+        "id": 94145021,
+        "nombre": "Droll & Lock Bird",
+        "cantidad": 1
+      },
+      {
+        "id": 60600126,
+        "nombre": "Cyber Emergency",
+        "cantidad": 3
+      },
+      {
+        "id": 64753988,
+        "nombre": "Cyberdark Realm",
+        "cantidad": 3
+      },
+      {
+        "id": 63031396,
+        "nombre": "Cybernetic Horizon",
+        "cantidad": 3
+      },
+      {
+        "id": 55704856,
+        "nombre": "Cyberload Fusion",
+        "cantidad": 1
+      },
+      {
+        "id": 24094653,
+        "nombre": "Polymerization",
+        "cantidad": 1
+      },
+      {
+        "id": 37630732,
+        "nombre": "Power Bond",
+        "cantidad": 1
+      },
+      {
+        "id": 84797028,
+        "nombre": "Clockwork Night",
+        "cantidad": 1
+      },
+      {
+        "id": 10045474,
+        "nombre": "Infinite Impermanence",
+        "cantidad": 3
+      },
+      {
+        "id": 82428674,
+        "nombre": "Cybernetic Overflow",
+        "cantidad": 1
+      }
+    ],
+    "extra": [
+      {
+        "id": 82315403,
+        "nombre": "Cyber Eternity Dragon",
+        "cantidad": 1
+      },
+      {
+        "id": 84058253,
+        "nombre": "Chimeratech Rampage Dragon",
+        "cantidad": 3
+      },
+      {
+        "id": 8963089,
+        "nombre": "Heosvarog the Mechanical Dawn",
+        "cantidad": 1
+      },
+      {
+        "id": 79229522,
+        "nombre": "Chimeratech Fortress Dragon",
+        "cantidad": 1
+      },
+      {
+        "id": 87116928,
+        "nombre": "Chimeratech Megafleet Dragon",
+        "cantidad": 1
+      },
+      {
+        "id": 46724542,
+        "nombre": "Cyber Dragon Sieger",
+        "cantidad": 1
+      },
+      {
+        "id": 41739381,
+        "nombre": "Clockwork Knight",
+        "cantidad": 2
+      },
+      {
+        "id": 29301450,
+        "nombre": "S:P Little Knight",
+        "cantidad": 1
+      },
+      {
+        "id": 90448279,
+        "nombre": "Divine Arsenal AA-ZEUS - Sky Thunder",
+        "cantidad": 1
+      },
+      {
+        "id": 2609443,
+        "nombre": "Chronomaly Vimana",
+        "cantidad": 1
+      },
+      {
+        "id": 58069384,
+        "nombre": "Cyber Dragon Nova",
+        "cantidad": 1
+      },
+      {
+        "id": 10443958,
+        "nombre": "Cyber Dragon Infinity",
+        "cantidad": 1
+      }
+    ],
+    "side": [
+      {
+        "id": 63941210,
+        "nombre": "Jizukiru, the Star Destroying Kaiju",
+        "cantidad": 2
+      },
+      {
+        "id": 84192580,
+        "nombre": "Mulcharmy Purulia",
+        "cantidad": 3
+      },
+      {
+        "id": 18144507,
+        "nombre": "Harpie's Feather Duster",
+        "cantidad": 1
+      },
+      {
+        "id": 14532163,
+        "nombre": "Lightning Storm",
+        "cantidad": 3
+      },
+      {
+        "id": 24299458,
+        "nombre": "Forbidden Droplet",
+        "cantidad": 3
+      },
+      {
+        "id": 15693423,
+        "nombre": "Evenly Matched",
+        "cantidad": 2
+      },
+      {
+        "id": 86686671,
+        "nombre": "Cyber Repair Plant",
+        "cantidad": 1
+      }
+    ]
+  },
+  "prioridades": {}
+}

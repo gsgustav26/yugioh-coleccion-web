@@ -1,0 +1,32 @@
+{
+  "actualizado": "2026-11-24",
+  "nota": "Precios de referencia de EE. UU. (TCGplayer, vía YGOPRODeck). En Ecuador pueden ser distintos: úsalos para comparar, no como precio final.",
+  "recomendados": [
+    {
+      "deck": "Fiendsmith Unchained",
+      "titulo": "Fiendsmith Unchained",
+      "porque": "No es un deck nuevo: es tu Unchained con el motor Fiendsmith que ya tienes. Hizo Top 4 en Spijkenisse. Es la forma más barata de tener una segunda versión competitiva."
+    },
+    {
+      "deck": "Ars Magna Elfnote",
+      "titulo": "Elfnote (el deck que más gana)",
+      "porque": "Es el deck número uno: 60 tops y 9 torneos ganados en el último mes, y su Main y Extra típicos cuestan menos de $100 de referencia. Si quieres un segundo deck para ganar torneos, este rinde más por dólar que completar Branded. Dos avisos: no tienes ninguna de sus cartas (se compra completo) y, por ser el mejor, es el candidato a recibir golpes en la próxima banlist."
+    },
+    {
+      "deck": "Sacred Beasts",
+      "titulo": "Sacred Beasts (Bestias Sagradas)",
+      "porque": "El mejor resultado por dólar del momento: 7 tops y 3 torneos ganados en el último mes, y casi todo el motor cuesta menos de $2 por carta. Lo único caro es The Great Gallant Bandit, que 2 de las 7 listas no usan."
+    },
+    {
+      "deck": "Tri-Brigade Toon",
+      "titulo": "Tri-Brigade Toon",
+      "porque": "8 tops y 2 torneos ganados. Motor barato salvo Tri-Brigade Springans Kitt (≈ $26), que además te sirve para Branded."
+    },
+    {
+      "deck": "@Ignister Maliss",
+      "titulo": "@Ignister Maliss",
+      "porque": "3 tops. Usa las mismas 3 Dominus Impulse que vas a comprar para Unchained; lo caro son las 3 Maliss <P> March Hare."
+    }
+  ],
+  "evitar": "Angelechy y Artmage también ganan mucho, pero son los caros: entre $300 y $430 de referencia solo en Main y Extra. Y en casi todos los decks el Side típico pide lo mismo que tu Unchained (Typhoon, Mulcharmy Purulia), así que esas compras te sirven dos veces."
+}

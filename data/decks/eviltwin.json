@@ -1,0 +1,394 @@
+{
+  "id": "eviltwin",
+  "nombre": "Evil★Twin",
+  "tipo": "fun",
+  "funda": "Amarillo",
+  "nota": "Armado con tu motor de la carpeta. Para torneo no da (0 de 300 listas del último mes), pero es barato y divertido.",
+  "main": [
+    {
+      "id": 36326160,
+      "nombre": "Live☆Twin Ki-sikil",
+      "cantidad": 3
+    },
+    {
+      "id": 73810864,
+      "nombre": "Live☆Twin Lil-la",
+      "cantidad": 3
+    },
+    {
+      "id": 81078880,
+      "nombre": "Live☆Twin Lil-la Treat",
+      "cantidad": 1
+    },
+    {
+      "id": 54257392,
+      "nombre": "Live☆Twin Ki-sikil Frost",
+      "cantidad": 2
+    },
+    {
+      "id": 82699999,
+      "nombre": "Live☆Twin Lil-la Sweet",
+      "cantidad": 1
+    },
+    {
+      "id": 62098216,
+      "nombre": "Evil★Twins Ki-sikil & Lil-la",
+      "cantidad": 1
+    },
+    {
+      "id": 14558127,
+      "nombre": "Ash Blossom & Joyous Spring",
+      "cantidad": 3
+    },
+    {
+      "id": 97268402,
+      "nombre": "Effect Veiler",
+      "cantidad": 3
+    },
+    {
+      "id": 59438930,
+      "nombre": "Ghost Ogre & Snow Rabbit",
+      "cantidad": 1
+    },
+    {
+      "id": 24508238,
+      "nombre": "D.D. Crow",
+      "cantidad": 1
+    },
+    {
+      "id": 61976639,
+      "nombre": "Secret Password",
+      "cantidad": 3
+    },
+    {
+      "id": 37582948,
+      "nombre": "Live☆Twin Sunny's Snitch",
+      "cantidad": 3
+    },
+    {
+      "id": 8083925,
+      "nombre": "Live☆Twin Home",
+      "cantidad": 2
+    },
+    {
+      "id": 35487920,
+      "nombre": "Live☆Twin Channel",
+      "cantidad": 1
+    },
+    {
+      "id": 5318639,
+      "nombre": "Mystical Space Typhoon",
+      "cantidad": 1
+    },
+    {
+      "id": 98360333,
+      "nombre": "Evil★Twin Challenge",
+      "cantidad": 3
+    },
+    {
+      "id": 60759087,
+      "nombre": "Evil★Twin Present",
+      "cantidad": 2
+    },
+    {
+      "id": 34365442,
+      "nombre": "Evil★Twin GG EZ",
+      "cantidad": 2
+    },
+    {
+      "id": 10045474,
+      "nombre": "Infinite Impermanence",
+      "cantidad": 3
+    },
+    {
+      "id": 3819470,
+      "nombre": "Seven Tools of the Bandit",
+      "cantidad": 1
+    }
+  ],
+  "extra": [
+    {
+      "id": 9205573,
+      "nombre": "Evil★Twin Ki-sikil",
+      "cantidad": 2
+    },
+    {
+      "id": 36609518,
+      "nombre": "Evil★Twin Lil-la",
+      "cantidad": 2
+    },
+    {
+      "id": 93672138,
+      "nombre": "Evil★Twin's Trouble Sunny",
+      "cantidad": 2
+    },
+    {
+      "id": 6636319,
+      "nombre": "Evil★Twin Ki-sikil Deal",
+      "cantidad": 1
+    }
+  ],
+  "side": [],
+  "conseguir": [],
+  "sidePlan": [],
+  "plan": {
+    "puesto": 5,
+    "nivel": "Casual",
+    "veredicto": "La versión fuerte de Evil★Twin es con el motor Fiendsmith: ganó el YCS Quito en mayo de 2025 y fue subcampeona en Melbourne en noviembre de 2025. Hoy ya no hace tops, pero es muy barata. Tu lista actual es la versión pura (más casual); la lista objetivo es la de Quito.",
+    "cambios": [
+      "La versión de Quito juega menos cartas Evil★Twin (sin Home, Challenge, Present ni GG EZ) y mete el motor Fiendsmith: 2 Engraver, Lacrima the Crimson Tears, Fabled Lurrie, Tract y Fiendsmith in Paradise.",
+      "Tu motor Fiendsmith está en el Yubel, que va primero: aquí te sale como segundo juego. Es barato salvo Fiendsmith's Tract (≈ $4).",
+      "Piezas propias del deck: 3 Live☆Twin Ki-sikil Frost, Lil-la Sweet, 2 Cynet Mining, 2 Spell Card \"Monster Reborn\", The Duke of Demise (≈ $6).",
+      "Hand traps: necesita su propio juego de Ash, Ghost Belle y Fuwalos. Las 3 Infinite Impermanence se liberan cuando compres las Dominus para Unchained."
+    ]
+  },
+  "guia": {
+    "idea": "Dos idols (Ki-sikil y Lil-la) que se llaman una a la otra y se convierten en sus versiones Evil★Twin (Links). Si tienes una de cada en el campo, sus efectos roban cartas y destruyen cartas del rival.",
+    "clave": [
+      "Live☆Twin Ki-sikil / Lil-la: si es tu único monstruo, saca a su pareja del deck.",
+      "Secret Password: busca una mágica/trampa del arquetipo, o un Evil★Twin si tienes a las dos.",
+      "Evil★Twin Ki-sikil (roba 1) y Evil★Twin Lil-la (destruye 1): se activan si la otra está en tu campo.",
+      "Evil★Twin Challenge: revive a una y hace un Link en el turno del rival."
+    ],
+    "combo": [
+      "Invoca normal Live☆Twin Ki-sikil → saca Live☆Twin Lil-la del deck.",
+      "Usa a Ki-sikil para Evil★Twin Ki-sikil Deal o junta a las dos para Evil★Twin Lil-la (Link 2).",
+      "Evil★Twin Lil-la con una Ki-sikil en campo: destruye una carta del rival.",
+      "Con Secret Password teniendo las dos en campo, busca otra Evil★Twin.",
+      "Deja Evil★Twin Challenge colocada para el turno del rival."
+    ],
+    "consejos": [
+      "Siempre intenta tener una Ki-sikil y una Lil-la a la vez: casi todo depende de eso.",
+      "Live☆Twin Home y las Ki-sikil/Lil-la te prohíben sacar del Extra lo que no sea Evil★Twin o Demonio ese turno."
+    ]
+  },
+  "objetivo": {
+    "fuente": "Ganador del YCS Quito (Josue Becerra, 31-05-2025), Fiendsmith Evil★Twin, ajustado a la banlist actual: sin Called by the Grave, Crossout, Moon of the Closed Heaven ni D/D/D Wave High King Caesar, 1 sola Droll, y con Underworld Goddess y Fiendsmith's Lacrima como en el subcampeón de Melbourne (nov. 2025).",
+    "main": [
+      {
+        "id": 36326160,
+        "nombre": "Live☆Twin Ki-sikil",
+        "cantidad": 3
+      },
+      {
+        "id": 54257392,
+        "nombre": "Live☆Twin Ki-sikil Frost",
+        "cantidad": 3
+      },
+      {
+        "id": 73810864,
+        "nombre": "Live☆Twin Lil-la",
+        "cantidad": 1
+      },
+      {
+        "id": 82699999,
+        "nombre": "Live☆Twin Lil-la Sweet",
+        "cantidad": 1
+      },
+      {
+        "id": 60764609,
+        "nombre": "Fiendsmith Engraver",
+        "cantidad": 2
+      },
+      {
+        "id": 28803166,
+        "nombre": "Lacrima the Crimson Tears",
+        "cantidad": 1
+      },
+      {
+        "id": 97651498,
+        "nombre": "Fabled Lurrie",
+        "cantidad": 1
+      },
+      {
+        "id": 14558127,
+        "nombre": "Ash Blossom & Joyous Spring",
+        "cantidad": 3
+      },
+      {
+        "id": 94145021,
+        "nombre": "Droll & Lock Bird",
+        "cantidad": 1
+      },
+      {
+        "id": 24508238,
+        "nombre": "D.D. Crow",
+        "cantidad": 2
+      },
+      {
+        "id": 42141493,
+        "nombre": "Mulcharmy Fuwalos",
+        "cantidad": 3
+      },
+      {
+        "id": 27204311,
+        "nombre": "Nibiru, the Primal Being",
+        "cantidad": 2
+      },
+      {
+        "id": 73642296,
+        "nombre": "Ghost Belle & Haunted Mansion",
+        "cantidad": 3
+      },
+      {
+        "id": 37582948,
+        "nombre": "Live☆Twin Sunny's Snitch",
+        "cantidad": 3
+      },
+      {
+        "id": 57160136,
+        "nombre": "Cynet Mining",
+        "cantidad": 2
+      },
+      {
+        "id": 98567237,
+        "nombre": "Fiendsmith's Tract",
+        "cantidad": 1
+      },
+      {
+        "id": 28958464,
+        "nombre": "Spell Card \"Monster Reborn\"",
+        "cantidad": 2
+      },
+      {
+        "id": 24299458,
+        "nombre": "Forbidden Droplet",
+        "cantidad": 2
+      },
+      {
+        "id": 99989863,
+        "nombre": "Fiendsmith in Paradise",
+        "cantidad": 1
+      },
+      {
+        "id": 10045474,
+        "nombre": "Infinite Impermanence",
+        "cantidad": 3
+      }
+    ],
+    "extra": [
+      {
+        "id": 82135803,
+        "nombre": "Fiendsmith's Desirae",
+        "cantidad": 1
+      },
+      {
+        "id": 45445571,
+        "nombre": "The Duke of Demise",
+        "cantidad": 1
+      },
+      {
+        "id": 93860227,
+        "nombre": "Necroquip Princess",
+        "cantidad": 1
+      },
+      {
+        "id": 93039339,
+        "nombre": "Super Starslayer TY-PHON - Sky Crisis",
+        "cantidad": 1
+      },
+      {
+        "id": 2463794,
+        "nombre": "Fiendsmith's Requiem",
+        "cantidad": 1
+      },
+      {
+        "id": 32991300,
+        "nombre": "Fiendsmith's Agnumday",
+        "cantidad": 1
+      },
+      {
+        "id": 49867899,
+        "nombre": "Fiendsmith's Sequence",
+        "cantidad": 1
+      },
+      {
+        "id": 46640168,
+        "nombre": "Fiendsmith's Lacrima",
+        "cantidad": 1
+      },
+      {
+        "id": 98127546,
+        "nombre": "Underworld Goddess of the Closed World",
+        "cantidad": 1
+      },
+      {
+        "id": 71607202,
+        "nombre": "Muckraker From the Underworld",
+        "cantidad": 1
+      },
+      {
+        "id": 9205573,
+        "nombre": "Evil★Twin Ki-sikil",
+        "cantidad": 1
+      },
+      {
+        "id": 36609518,
+        "nombre": "Evil★Twin Lil-la",
+        "cantidad": 1
+      },
+      {
+        "id": 4731783,
+        "nombre": "A Bao A Qu, the Lightless Shadow",
+        "cantidad": 1
+      },
+      {
+        "id": 93672138,
+        "nombre": "Evil★Twin's Trouble Sunny",
+        "cantidad": 1
+      },
+      {
+        "id": 6636319,
+        "nombre": "Evil★Twin Ki-sikil Deal",
+        "cantidad": 1
+      }
+    ],
+    "side": [
+      {
+        "id": 34267821,
+        "nombre": "Artifact Lancea",
+        "cantidad": 3
+      },
+      {
+        "id": 4227096,
+        "nombre": "Mistaken Arrest",
+        "cantidad": 3
+      },
+      {
+        "id": 35269904,
+        "nombre": "Triple Tactics Thrust",
+        "cantidad": 2
+      },
+      {
+        "id": 64964750,
+        "nombre": "Sales Ban",
+        "cantidad": 2
+      },
+      {
+        "id": 14532163,
+        "nombre": "Lightning Storm",
+        "cantidad": 1
+      },
+      {
+        "id": 18144507,
+        "nombre": "Harpie's Feather Duster",
+        "cantidad": 1
+      },
+      {
+        "id": 94423983,
+        "nombre": "Simul Archfiends",
+        "cantidad": 1
+      },
+      {
+        "id": 164710,
+        "nombre": "Mischief of the Gnomes",
+        "cantidad": 1
+      },
+      {
+        "id": 15693423,
+        "nombre": "Evenly Matched",
+        "cantidad": 1
+      }
+    ]
+  }
+}

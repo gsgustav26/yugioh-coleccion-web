@@ -1,0 +1,298 @@
+{
+  "id": "kozmo",
+  "nombre": "Kozmo",
+  "tipo": "fun",
+  "funda": "Verde",
+  "nota": "",
+  "main": [
+    {
+      "id": 64280356,
+      "nombre": "Kozmo Tincan",
+      "cantidad": 3
+    },
+    {
+      "id": 56907986,
+      "nombre": "Kozmo Strawman",
+      "cantidad": 2
+    },
+    {
+      "id": 31061682,
+      "nombre": "Kozmo Farmgirl",
+      "cantidad": 3
+    },
+    {
+      "id": 12408276,
+      "nombre": "Kozmoll Dark Lady",
+      "cantidad": 2
+    },
+    {
+      "id": 94454495,
+      "nombre": "Kozmo Sliprider",
+      "cantidad": 3
+    },
+    {
+      "id": 55885348,
+      "nombre": "Kozmo Dark Destroyer",
+      "cantidad": 3
+    },
+    {
+      "id": 64063868,
+      "nombre": "Kozmo Dark Eclipser",
+      "cantidad": 1
+    },
+    {
+      "id": 20849090,
+      "nombre": "Kozmo Forerunner",
+      "cantidad": 1
+    },
+    {
+      "id": 1274455,
+      "nombre": "Kozmo Soartroopers",
+      "cantidad": 1
+    },
+    {
+      "id": 93302695,
+      "nombre": "Kozmoll Wickedwitch",
+      "cantidad": 1
+    },
+    {
+      "id": 29491334,
+      "nombre": "Kozmo DOG Fighter",
+      "cantidad": 1
+    },
+    {
+      "id": 24508238,
+      "nombre": "D.D. Crow",
+      "cantidad": 2
+    },
+    {
+      "id": 48770333,
+      "nombre": "Thunder King, the Lightningstrike Kaiju",
+      "cantidad": 2
+    },
+    {
+      "id": 67237709,
+      "nombre": "Kozmotown",
+      "cantidad": 3
+    },
+    {
+      "id": 67723438,
+      "nombre": "Emergency Teleport",
+      "cantidad": 3
+    },
+    {
+      "id": 49238328,
+      "nombre": "Pot of Extravagance",
+      "cantidad": 3
+    },
+    {
+      "id": 5318639,
+      "nombre": "Mystical Space Typhoon",
+      "cantidad": 2
+    },
+    {
+      "id": 54693926,
+      "nombre": "Dark Ruler No More",
+      "cantidad": 1
+    },
+    {
+      "id": 90452877,
+      "nombre": "Kozmojo",
+      "cantidad": 3
+    }
+  ],
+  "extra": [
+    {
+      "id": 82633039,
+      "nombre": "Castel, the Skyblaster Musketeer",
+      "cantidad": 1
+    },
+    {
+      "id": 55285840,
+      "nombre": "Time Thief Redoer",
+      "cantidad": 1
+    },
+    {
+      "id": 71222868,
+      "nombre": "Raidraptor - Rising Rebellion Falcon",
+      "cantidad": 1
+    },
+    {
+      "id": 9012916,
+      "nombre": "Black-Winged Dragon",
+      "cantidad": 1
+    },
+    {
+      "id": 25862681,
+      "nombre": "Ancient Fairy Dragon",
+      "cantidad": 1
+    },
+    {
+      "id": 19355597,
+      "nombre": "Gem-Knight Lady Brilliant Diamond",
+      "cantidad": 1
+    }
+  ],
+  "side": [],
+  "conseguir": [],
+  "sidePlan": [],
+  "guia": {
+    "idea": "Psíquicos y máquinas del espacio que pagan vida y se destierran de la mano/campo para sacar Kozmo más grandes. Kozmotown recupera cartas y Pot of Extravagance da cartas extra.",
+    "clave": [
+      "Kozmotown: devuelve a la mano un Kozmo desterrado (pagas LP) y deja cambiar Kozmo de la mano por cartas nuevas.",
+      "Kozmo Tincan: se destierra para sacar un Kozmo de la mano; en la End Phase te da 1 de 3 Kozmo del deck (el rival elige al azar).",
+      "Kozmo Farmgirl / Strawman: pequeños que se destierran (en cualquier turno) para sacar Kozmo grandes de la mano.",
+      "Kozmo Dark Destroyer: al invocarse destruye un monstruo; no lo pueden apuntar; si lo destruyen saca otro Kozmo del deck.",
+      "Kozmo Sliprider / Forerunner: presión en el campo."
+    ],
+    "combo": [
+      "Al inicio de la Main Phase 1, Pot of Extravagance para robar.",
+      "Activa Kozmotown. Invoca un Kozmo pequeño (Farmgirl/Tincan); destiérralo para sacar un Kozmo mayor de la mano (Dark Destroyer).",
+      "Dark Destroyer al invocarse destruye un monstruo del rival.",
+      "Ojo: después de Pot of Extravagance no puedes robar por efectos ese turno (Kozmotown no te dará cartas ese turno)."
+    ],
+    "consejos": [
+      "Cuida tus puntos de vida: muchos Kozmo pagan LP.",
+      "D.D. Crow sirve contra decks que usan su cementerio."
+    ]
+  },
+  "plan": {
+    "puesto": 6,
+    "nivel": "Casual",
+    "veredicto": "Kozmo es un deck antiguo, sin resultados de torneo ni soporte nuevo: queda para jugar por gusto. La lista objetivo es mi propuesta con las mejores piezas del arquetipo; completarla cuesta poco.",
+    "cambios": [
+      "Ya quedó en 40 cartas: 2 Strawman, 3 Farmgirl, 3 Emergency Teleport y 3 Kozmojo.",
+      "Lo único que de verdad lo mejora: Kozmo Dark Planet (jefe que niega mágicas) y 2 Kozmo Goodwitch.",
+      "Delta Shuttle y Landwalker son opcionales.",
+      "No le compraría hand traps: usa las de Unchained cuando lo quieras jugar."
+    ]
+  },
+  "objetivo": {
+    "fuente": "Kozmo no tiene listas de torneo recientes. Esta es mi propuesta: tu lista con el jefe Kozmo Dark Planet, 2 Kozmo Goodwitch y 3 Ash en lugar de las cartas más flojas (D.D. Crow, MST, Dark Ruler No More y DOG Fighter).",
+    "main": [
+      {
+        "id": 64280356,
+        "nombre": "Kozmo Tincan",
+        "cantidad": 3
+      },
+      {
+        "id": 56907986,
+        "nombre": "Kozmo Strawman",
+        "cantidad": 2
+      },
+      {
+        "id": 31061682,
+        "nombre": "Kozmo Farmgirl",
+        "cantidad": 3
+      },
+      {
+        "id": 12408276,
+        "nombre": "Kozmoll Dark Lady",
+        "cantidad": 2
+      },
+      {
+        "id": 94454495,
+        "nombre": "Kozmo Sliprider",
+        "cantidad": 3
+      },
+      {
+        "id": 55885348,
+        "nombre": "Kozmo Dark Destroyer",
+        "cantidad": 3
+      },
+      {
+        "id": 64063868,
+        "nombre": "Kozmo Dark Eclipser",
+        "cantidad": 1
+      },
+      {
+        "id": 85991529,
+        "nombre": "Kozmo Dark Planet",
+        "cantidad": 1
+      },
+      {
+        "id": 67050396,
+        "nombre": "Kozmo Goodwitch",
+        "cantidad": 2
+      },
+      {
+        "id": 20849090,
+        "nombre": "Kozmo Forerunner",
+        "cantidad": 1
+      },
+      {
+        "id": 1274455,
+        "nombre": "Kozmo Soartroopers",
+        "cantidad": 1
+      },
+      {
+        "id": 93302695,
+        "nombre": "Kozmoll Wickedwitch",
+        "cantidad": 1
+      },
+      {
+        "id": 48770333,
+        "nombre": "Thunder King, the Lightningstrike Kaiju",
+        "cantidad": 2
+      },
+      {
+        "id": 14558127,
+        "nombre": "Ash Blossom & Joyous Spring",
+        "cantidad": 3
+      },
+      {
+        "id": 67237709,
+        "nombre": "Kozmotown",
+        "cantidad": 3
+      },
+      {
+        "id": 67723438,
+        "nombre": "Emergency Teleport",
+        "cantidad": 3
+      },
+      {
+        "id": 49238328,
+        "nombre": "Pot of Extravagance",
+        "cantidad": 3
+      },
+      {
+        "id": 90452877,
+        "nombre": "Kozmojo",
+        "cantidad": 3
+      }
+    ],
+    "extra": [
+      {
+        "id": 82633039,
+        "nombre": "Castel, the Skyblaster Musketeer",
+        "cantidad": 1
+      },
+      {
+        "id": 55285840,
+        "nombre": "Time Thief Redoer",
+        "cantidad": 1
+      },
+      {
+        "id": 71222868,
+        "nombre": "Raidraptor - Rising Rebellion Falcon",
+        "cantidad": 1
+      },
+      {
+        "id": 9012916,
+        "nombre": "Black-Winged Dragon",
+        "cantidad": 1
+      },
+      {
+        "id": 25862681,
+        "nombre": "Ancient Fairy Dragon",
+        "cantidad": 1
+      },
+      {
+        "id": 19355597,
+        "nombre": "Gem-Knight Lady Brilliant Diamond",
+        "cantidad": 1
+      }
+    ],
+    "side": []
+  }
+}
